@@ -1,0 +1,2642 @@
+{
+  "league": "ita-serie-a",
+  "season": 2026,
+  "fetchedAt": "2026-10-30T18:38:49.306151+00:00",
+  "sourceUrl": "https://www.espn.com/soccer/league/_/name/ita.1",
+  "license": "CC BY-SA 4.0",
+  "source": "ESPN + Wikipedia",
+  "bins": [
+    "1–15",
+    "16–30",
+    "31–45",
+    "45+",
+    "46–60",
+    "61–75",
+    "76–90",
+    "90+"
+  ],
+  "teams": [
+    {
+      "id": 3417040367,
+      "name": "Inter Milan",
+      "sourceId": "110",
+      "completed": 9
+    },
+    {
+      "id": 2141390539,
+      "name": "Lazio",
+      "sourceId": "112",
+      "completed": 9
+    },
+    {
+      "id": 2267057376,
+      "name": "Roma",
+      "sourceId": "104",
+      "completed": 9
+    },
+    {
+      "id": 2777383916,
+      "name": "Como",
+      "sourceId": "2572",
+      "completed": 9
+    },
+    {
+      "id": 2034419792,
+      "name": "AC Milan",
+      "sourceId": "103",
+      "completed": 9
+    },
+    {
+      "id": 3551984340,
+      "name": "Frosinone",
+      "sourceId": "4057",
+      "completed": 9
+    },
+    {
+      "id": 3429601513,
+      "name": "Napoli",
+      "sourceId": "114",
+      "completed": 9
+    },
+    {
+      "id": 2032542557,
+      "name": "Juventus",
+      "sourceId": "111",
+      "completed": 9
+    },
+    {
+      "id": 4280391182,
+      "name": "Torino",
+      "sourceId": "239",
+      "completed": 9
+    },
+    {
+      "id": 3980540039,
+      "name": "Cagliari",
+      "sourceId": "2925",
+      "completed": 9
+    },
+    {
+      "id": 663567942,
+      "name": "Bologna",
+      "sourceId": "107",
+      "completed": 9
+    },
+    {
+      "id": 2503137536,
+      "name": "Atalanta",
+      "sourceId": "105",
+      "completed": 9
+    },
+    {
+      "id": 3939292337,
+      "name": "Genoa",
+      "sourceId": "3263",
+      "completed": 9
+    },
+    {
+      "id": 1063453040,
+      "name": "Lecce",
+      "sourceId": "113",
+      "completed": 9
+    },
+    {
+      "id": 611870388,
+      "name": "Sassuolo",
+      "sourceId": "3997",
+      "completed": 9
+    },
+    {
+      "id": 1713673705,
+      "name": "Monza",
+      "sourceId": "4007",
+      "completed": 9
+    },
+    {
+      "id": 3350935335,
+      "name": "Udinese",
+      "sourceId": "118",
+      "completed": 9
+    },
+    {
+      "id": 882974108,
+      "name": "Fiorentina",
+      "sourceId": "109",
+      "completed": 9
+    },
+    {
+      "id": 3463794015,
+      "name": "Parma",
+      "sourceId": "115",
+      "completed": 9
+    },
+    {
+      "id": 3465326976,
+      "name": "Venezia",
+      "sourceId": "17530",
+      "completed": 9
+    }
+  ],
+  "matches": [
+    {
+      "id": "401874745",
+      "date": "2026-08-22T16:30Z",
+      "home": 3350935335,
+      "away": 2777383916,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3350935335,
+          "minute": "29",
+          "bin": 1
+        },
+        {
+          "team": 2777383916,
+          "minute": "54",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 3350935335,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874931",
+      "date": "2026-08-22T16:30Z",
+      "home": 3417040367,
+      "away": 1713673705,
+      "hg": 4,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3417040367,
+          "minute": "6",
+          "bin": 0
+        },
+        {
+          "team": 1713673705,
+          "minute": "29",
+          "bin": 1
+        },
+        {
+          "team": 3417040367,
+          "minute": "48",
+          "bin": 4
+        },
+        {
+          "team": 3417040367,
+          "minute": "55",
+          "bin": 4
+        },
+        {
+          "team": 3417040367,
+          "minute": "63",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3417040367,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874747",
+      "date": "2026-08-22T18:45Z",
+      "home": 3463794015,
+      "away": 3980540039,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3980540039,
+          "minute": "79",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3980540039,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874929",
+      "date": "2026-08-22T18:45Z",
+      "home": 3939292337,
+      "away": 3429601513,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3429601513,
+          "minute": "82",
+          "bin": 6
+        },
+        {
+          "team": 3429601513,
+          "minute": "87",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3429601513,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874930",
+      "date": "2026-08-23T16:30Z",
+      "home": 3551984340,
+      "away": 2032542557,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2032542557,
+          "minute": "22",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 2032542557,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874946",
+      "date": "2026-08-23T16:30Z",
+      "home": 3465326976,
+      "away": 1063453040,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 1063453040,
+          "minute": "46",
+          "bin": 4
+        },
+        {
+          "team": 1063453040,
+          "minute": "80",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 1063453040,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874748",
+      "date": "2026-08-23T18:45Z",
+      "home": 2503137536,
+      "away": 611870388,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2503137536,
+          "minute": "6",
+          "bin": 0
+        },
+        {
+          "team": 611870388,
+          "minute": "55",
+          "bin": 4
+        },
+        {
+          "team": 2503137536,
+          "minute": "65",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2503137536,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874932",
+      "date": "2026-08-23T18:45Z",
+      "home": 4280391182,
+      "away": 2034419792,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 2034419792,
+          "minute": "64",
+          "bin": 5
+        },
+        {
+          "team": 2034419792,
+          "minute": "66",
+          "bin": 5
+        },
+        {
+          "team": 4280391182,
+          "minute": "90+3",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 2034419792,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874927",
+      "date": "2026-08-24T16:30Z",
+      "home": 663567942,
+      "away": 2141390539,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2141390539,
+          "minute": "59",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 2141390539,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874928",
+      "date": "2026-08-24T18:45Z",
+      "home": 2267057376,
+      "away": 882974108,
+      "hg": 4,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2267057376,
+          "minute": "27",
+          "bin": 1
+        },
+        {
+          "team": 2267057376,
+          "minute": "52",
+          "bin": 4
+        },
+        {
+          "team": 2267057376,
+          "minute": "60",
+          "bin": 4
+        },
+        {
+          "team": 2267057376,
+          "minute": "86",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2267057376,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874758",
+      "date": "2026-08-28T18:45Z",
+      "home": 2034419792,
+      "away": 3465326976,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2034419792,
+          "minute": "69",
+          "bin": 5
+        },
+        {
+          "team": 2034419792,
+          "minute": "89",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2034419792,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874743",
+      "date": "2026-08-29T16:30Z",
+      "home": 611870388,
+      "away": 4280391182,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 611870388,
+          "minute": "32",
+          "bin": 2
+        },
+        {
+          "team": 4280391182,
+          "minute": "45+2",
+          "bin": 3
+        },
+        {
+          "team": 611870388,
+          "minute": "78",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 611870388,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874749",
+      "date": "2026-08-29T16:30Z",
+      "home": 1713673705,
+      "away": 3350935335,
+      "hg": 2,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 3350935335,
+          "minute": "32",
+          "bin": 2
+        },
+        {
+          "team": 1713673705,
+          "minute": "37",
+          "bin": 2
+        },
+        {
+          "team": 3350935335,
+          "minute": "45",
+          "bin": 2
+        },
+        {
+          "team": 3350935335,
+          "minute": "45+3",
+          "bin": 3
+        },
+        {
+          "team": 1713673705,
+          "minute": "63",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3350935335,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874942",
+      "date": "2026-08-29T16:30Z",
+      "home": 882974108,
+      "away": 3551984340,
+      "hg": 0,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 3551984340,
+          "minute": "26",
+          "bin": 1
+        },
+        {
+          "team": 3551984340,
+          "minute": "38",
+          "bin": 2
+        },
+        {
+          "team": 3551984340,
+          "minute": "68",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3551984340,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874746",
+      "date": "2026-08-29T18:45Z",
+      "home": 2032542557,
+      "away": 3463794015,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2032542557,
+          "minute": "62",
+          "bin": 5
+        },
+        {
+          "team": 2032542557,
+          "minute": "88",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2032542557,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874755",
+      "date": "2026-08-30T16:30Z",
+      "home": 3429601513,
+      "away": 2777383916,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 2777383916,
+          "minute": "17",
+          "bin": 1
+        },
+        {
+          "team": 3429601513,
+          "minute": "30",
+          "bin": 1
+        },
+        {
+          "team": 2777383916,
+          "minute": "34",
+          "bin": 2
+        }
+      ],
+      "firstScorer": 2777383916,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874742",
+      "date": "2026-08-30T18:45Z",
+      "home": 2141390539,
+      "away": 3939292337,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2141390539,
+          "minute": "25",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 2141390539,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874938",
+      "date": "2026-08-30T18:45Z",
+      "home": 3980540039,
+      "away": 3417040367,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3417040367,
+          "minute": "9",
+          "bin": 0
+        }
+      ],
+      "firstScorer": 3417040367,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874945",
+      "date": "2026-08-31T16:30Z",
+      "home": 1063453040,
+      "away": 2267057376,
+      "hg": 0,
+      "ag": 4,
+      "goals": [
+        {
+          "team": 2267057376,
+          "minute": "4",
+          "bin": 0
+        },
+        {
+          "team": 2267057376,
+          "minute": "23",
+          "bin": 1
+        },
+        {
+          "team": 2267057376,
+          "minute": "25",
+          "bin": 1
+        },
+        {
+          "team": 2267057376,
+          "minute": "65",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2267057376,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874970",
+      "date": "2026-08-31T18:45Z",
+      "home": 2503137536,
+      "away": 663567942,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2503137536,
+          "minute": "90+6",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 2503137536,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874744",
+      "date": "2026-09-04T18:45Z",
+      "home": 3939292337,
+      "away": 2777383916,
+      "hg": 1,
+      "ag": 4,
+      "goals": [
+        {
+          "team": 3939292337,
+          "minute": "19",
+          "bin": 1
+        },
+        {
+          "team": 2777383916,
+          "minute": "25",
+          "bin": 1
+        },
+        {
+          "team": 2777383916,
+          "minute": "30",
+          "bin": 1
+        },
+        {
+          "team": 2777383916,
+          "minute": "40",
+          "bin": 2
+        },
+        {
+          "team": 2777383916,
+          "minute": "78",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3939292337,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874939",
+      "date": "2026-09-05T13:00Z",
+      "home": 882974108,
+      "away": 4280391182,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 882974108,
+          "minute": "47",
+          "bin": 4
+        },
+        {
+          "team": 4280391182,
+          "minute": "74",
+          "bin": 5
+        },
+        {
+          "team": 4280391182,
+          "minute": "82",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 882974108,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874937",
+      "date": "2026-09-05T16:00Z",
+      "home": 3417040367,
+      "away": 3429601513,
+      "hg": 3,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3429601513,
+          "minute": "50",
+          "bin": 4
+        },
+        {
+          "team": 3429601513,
+          "minute": "53",
+          "bin": 4
+        },
+        {
+          "team": 3417040367,
+          "minute": "56",
+          "bin": 4
+        },
+        {
+          "team": 3417040367,
+          "minute": "82",
+          "bin": 6
+        },
+        {
+          "team": 3417040367,
+          "minute": "90+1",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 3429601513,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874781",
+      "date": "2026-09-05T18:45Z",
+      "home": 2267057376,
+      "away": 2503137536,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2503137536,
+          "minute": "47",
+          "bin": 4
+        },
+        {
+          "team": 2267057376,
+          "minute": "89",
+          "bin": 6
+        },
+        {
+          "team": 2267057376,
+          "minute": "90+3",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 2503137536,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874768",
+      "date": "2026-09-06T13:00Z",
+      "home": 3551984340,
+      "away": 3465326976,
+      "hg": 3,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3551984340,
+          "minute": "21",
+          "bin": 1
+        },
+        {
+          "team": 3551984340,
+          "minute": "39",
+          "bin": 2
+        },
+        {
+          "team": 3465326976,
+          "minute": "66",
+          "bin": 5
+        },
+        {
+          "team": 3465326976,
+          "minute": "74",
+          "bin": 5
+        },
+        {
+          "team": 3551984340,
+          "minute": "83",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3551984340,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874987",
+      "date": "2026-09-06T13:00Z",
+      "home": 3463794015,
+      "away": 1713673705,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 1713673705,
+          "minute": "38",
+          "bin": 2
+        },
+        {
+          "team": 3463794015,
+          "minute": "60",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 1713673705,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874751",
+      "date": "2026-09-06T16:00Z",
+      "home": 663567942,
+      "away": 611870388,
+      "hg": 2,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 611870388,
+          "minute": "19",
+          "bin": 1
+        },
+        {
+          "team": 663567942,
+          "minute": "50",
+          "bin": 4
+        },
+        {
+          "team": 611870388,
+          "minute": "56",
+          "bin": 4
+        },
+        {
+          "team": 663567942,
+          "minute": "90+1",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 611870388,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874954",
+      "date": "2026-09-06T18:45Z",
+      "home": 2032542557,
+      "away": 2034419792,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2034419792,
+          "minute": "68",
+          "bin": 5
+        },
+        {
+          "team": 2032542557,
+          "minute": "90+2",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 2034419792,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874943",
+      "date": "2026-09-07T16:30Z",
+      "home": 3980540039,
+      "away": 1063453040,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3980540039,
+          "minute": "29",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 3980540039,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874962",
+      "date": "2026-09-07T18:45Z",
+      "home": 3350935335,
+      "away": 2141390539,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3350935335,
+          "minute": "49",
+          "bin": 4
+        },
+        {
+          "team": 2141390539,
+          "minute": "75",
+          "bin": 5
+        },
+        {
+          "team": 2141390539,
+          "minute": "88",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3350935335,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874759",
+      "date": "2026-09-11T18:45Z",
+      "home": 3465326976,
+      "away": 882974108,
+      "hg": 2,
+      "ag": 4,
+      "goals": [
+        {
+          "team": 3465326976,
+          "minute": "22",
+          "bin": 1
+        },
+        {
+          "team": 882974108,
+          "minute": "29",
+          "bin": 1
+        },
+        {
+          "team": 882974108,
+          "minute": "30",
+          "bin": 1
+        },
+        {
+          "team": 882974108,
+          "minute": "66",
+          "bin": 5
+        },
+        {
+          "team": 882974108,
+          "minute": "84",
+          "bin": 6
+        },
+        {
+          "team": 3465326976,
+          "minute": "86",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3465326976,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874991",
+      "date": "2026-09-12T13:00Z",
+      "home": 3939292337,
+      "away": 3551984340,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3551984340,
+          "minute": "14",
+          "bin": 0
+        },
+        {
+          "team": 3939292337,
+          "minute": "50",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 3551984340,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874941",
+      "date": "2026-09-12T16:00Z",
+      "home": 2141390539,
+      "away": 2034419792,
+      "hg": 2,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 2141390539,
+          "minute": "10",
+          "bin": 0
+        },
+        {
+          "team": 2141390539,
+          "minute": "39",
+          "bin": 2
+        },
+        {
+          "team": 2034419792,
+          "minute": "65",
+          "bin": 5
+        },
+        {
+          "team": 2034419792,
+          "minute": "67",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2141390539,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874979",
+      "date": "2026-09-12T18:45Z",
+      "home": 2503137536,
+      "away": 3980540039,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3980540039,
+          "minute": "19",
+          "bin": 1
+        },
+        {
+          "team": 2503137536,
+          "minute": "41",
+          "bin": 2
+        },
+        {
+          "team": 3980540039,
+          "minute": "61",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3980540039,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874936",
+      "date": "2026-09-13T13:00Z",
+      "home": 1063453040,
+      "away": 1713673705,
+      "hg": 3,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 1063453040,
+          "minute": "3",
+          "bin": 0
+        },
+        {
+          "team": 1063453040,
+          "minute": "10",
+          "bin": 0
+        },
+        {
+          "team": 1713673705,
+          "minute": "20",
+          "bin": 1
+        },
+        {
+          "team": 1063453040,
+          "minute": "21",
+          "bin": 1
+        },
+        {
+          "team": 1713673705,
+          "minute": "89",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 1063453040,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874792",
+      "date": "2026-09-13T16:00Z",
+      "home": 3429601513,
+      "away": 663567942,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3429601513,
+          "minute": "66",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3429601513,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874750",
+      "date": "2026-09-13T18:45Z",
+      "home": 611870388,
+      "away": 2032542557,
+      "hg": 3,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 611870388,
+          "minute": "65",
+          "bin": 5
+        },
+        {
+          "team": 2032542557,
+          "minute": "82",
+          "bin": 6
+        },
+        {
+          "team": 611870388,
+          "minute": "89",
+          "bin": 6
+        },
+        {
+          "team": 2032542557,
+          "minute": "90+1",
+          "bin": 7
+        },
+        {
+          "team": 611870388,
+          "minute": "90+4",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 611870388,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874933",
+      "date": "2026-09-14T16:30Z",
+      "home": 2777383916,
+      "away": 3463794015,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2777383916,
+          "minute": "23",
+          "bin": 1
+        },
+        {
+          "team": 2777383916,
+          "minute": "83",
+          "bin": 6
+        },
+        {
+          "team": 3463794015,
+          "minute": "90+2",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 2777383916,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874950",
+      "date": "2026-09-14T16:30Z",
+      "home": 4280391182,
+      "away": 2267057376,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 2267057376,
+          "minute": "40",
+          "bin": 2
+        },
+        {
+          "team": 2267057376,
+          "minute": "90+3",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 2267057376,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874966",
+      "date": "2026-09-14T18:45Z",
+      "home": 3417040367,
+      "away": 3350935335,
+      "hg": 5,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 3350935335,
+          "minute": "9",
+          "bin": 0
+        },
+        {
+          "team": 3350935335,
+          "minute": "16",
+          "bin": 1
+        },
+        {
+          "team": 3417040367,
+          "minute": "26",
+          "bin": 1
+        },
+        {
+          "team": 3417040367,
+          "minute": "35",
+          "bin": 2
+        },
+        {
+          "team": 3417040367,
+          "minute": "57",
+          "bin": 4
+        },
+        {
+          "team": 3417040367,
+          "minute": "67",
+          "bin": 5
+        },
+        {
+          "team": 3417040367,
+          "minute": "79",
+          "bin": 6
+        },
+        {
+          "team": 3350935335,
+          "minute": "90",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3350935335,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874756",
+      "date": "2026-09-18T18:45Z",
+      "home": 1713673705,
+      "away": 611870388,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 1713673705,
+          "minute": "51",
+          "bin": 4
+        },
+        {
+          "team": 1713673705,
+          "minute": "63",
+          "bin": 5
+        },
+        {
+          "team": 611870388,
+          "minute": "88",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 1713673705,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874767",
+      "date": "2026-09-19T13:00Z",
+      "home": 663567942,
+      "away": 4280391182,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 663567942,
+          "minute": "14",
+          "bin": 0
+        },
+        {
+          "team": 4280391182,
+          "minute": "77",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 663567942,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874964",
+      "date": "2026-09-19T13:00Z",
+      "home": 3350935335,
+      "away": 3980540039,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3980540039,
+          "minute": "54",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 3980540039,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874753",
+      "date": "2026-09-19T16:00Z",
+      "home": 2267057376,
+      "away": 3417040367,
+      "hg": 2,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 2267057376,
+          "minute": "6",
+          "bin": 0
+        },
+        {
+          "team": 2267057376,
+          "minute": "37",
+          "bin": 2
+        },
+        {
+          "team": 3417040367,
+          "minute": "46",
+          "bin": 4
+        },
+        {
+          "team": 3417040367,
+          "minute": "79",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2267057376,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874956",
+      "date": "2026-09-19T18:45Z",
+      "home": 3465326976,
+      "away": 2141390539,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 2141390539,
+          "minute": "51",
+          "bin": 4
+        },
+        {
+          "team": 2141390539,
+          "minute": "60",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 2141390539,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874934",
+      "date": "2026-09-20T10:30Z",
+      "home": 882974108,
+      "away": 3429601513,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3429601513,
+          "minute": "23",
+          "bin": 1
+        },
+        {
+          "team": 882974108,
+          "minute": "51",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 3429601513,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874752",
+      "date": "2026-09-20T13:00Z",
+      "home": 3551984340,
+      "away": 2777383916,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3551984340,
+          "minute": "14",
+          "bin": 0
+        },
+        {
+          "team": 3551984340,
+          "minute": "45+3",
+          "bin": 3
+        }
+      ],
+      "firstScorer": 3551984340,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874801",
+      "date": "2026-09-20T13:00Z",
+      "home": 3463794015,
+      "away": 3939292337,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3463794015,
+          "minute": "38",
+          "bin": 2
+        },
+        {
+          "team": 3939292337,
+          "minute": "70",
+          "bin": 5
+        },
+        {
+          "team": 3463794015,
+          "minute": "80",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3463794015,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874757",
+      "date": "2026-09-20T16:00Z",
+      "home": 2032542557,
+      "away": 2503137536,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2032542557,
+          "minute": "28",
+          "bin": 1
+        },
+        {
+          "team": 2032542557,
+          "minute": "77",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2032542557,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874944",
+      "date": "2026-09-20T18:45Z",
+      "home": 2034419792,
+      "away": 1063453040,
+      "hg": 3,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2034419792,
+          "minute": "14",
+          "bin": 0
+        },
+        {
+          "team": 2034419792,
+          "minute": "61",
+          "bin": 5
+        },
+        {
+          "team": 2034419792,
+          "minute": "73",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2034419792,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874947",
+      "date": "2026-10-10T13:00Z",
+      "home": 3939292337,
+      "away": 882974108,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3939292337,
+          "minute": "7",
+          "bin": 0
+        },
+        {
+          "team": 3939292337,
+          "minute": "15",
+          "bin": 0
+        },
+        {
+          "team": 882974108,
+          "minute": "73",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3939292337,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401875021",
+      "date": "2026-10-10T16:00Z",
+      "home": 3417040367,
+      "away": 3463794015,
+      "hg": 3,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3417040367,
+          "minute": "13",
+          "bin": 0
+        },
+        {
+          "team": 3417040367,
+          "minute": "18",
+          "bin": 1
+        },
+        {
+          "team": 3417040367,
+          "minute": "31",
+          "bin": 2
+        }
+      ],
+      "firstScorer": 3417040367,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874754",
+      "date": "2026-10-10T18:45Z",
+      "home": 3429601513,
+      "away": 3551984340,
+      "hg": 3,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3429601513,
+          "minute": "29",
+          "bin": 1
+        },
+        {
+          "team": 3429601513,
+          "minute": "32",
+          "bin": 2
+        },
+        {
+          "team": 3429601513,
+          "minute": "90+4",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 3429601513,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874940",
+      "date": "2026-10-11T10:30Z",
+      "home": 2777383916,
+      "away": 2267057376,
+      "hg": 0,
+      "ag": 0,
+      "goals": [],
+      "firstScorer": null,
+      "firstGoalStatus": "goalless"
+    },
+    {
+      "id": "401874776",
+      "date": "2026-10-11T13:00Z",
+      "home": 1063453040,
+      "away": 663567942,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 663567942,
+          "minute": "17",
+          "bin": 1
+        },
+        {
+          "team": 1063453040,
+          "minute": "64",
+          "bin": 5
+        },
+        {
+          "team": 663567942,
+          "minute": "75",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 663567942,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874951",
+      "date": "2026-10-11T13:00Z",
+      "home": 2141390539,
+      "away": 1713673705,
+      "hg": 3,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2141390539,
+          "minute": "3",
+          "bin": 0
+        },
+        {
+          "team": 2141390539,
+          "minute": "23",
+          "bin": 1
+        },
+        {
+          "team": 1713673705,
+          "minute": "46",
+          "bin": 4
+        },
+        {
+          "team": 2141390539,
+          "minute": "88",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2141390539,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874789",
+      "date": "2026-10-11T16:00Z",
+      "home": 611870388,
+      "away": 2034419792,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2034419792,
+          "minute": "63",
+          "bin": 5
+        },
+        {
+          "team": 611870388,
+          "minute": "68",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2034419792,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874764",
+      "date": "2026-10-11T18:45Z",
+      "home": 3980540039,
+      "away": 2032542557,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3980540039,
+          "minute": "20",
+          "bin": 1
+        },
+        {
+          "team": 2032542557,
+          "minute": "81",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3980540039,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401875005",
+      "date": "2026-10-12T16:30Z",
+      "home": 2503137536,
+      "away": 3465326976,
+      "hg": 3,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2503137536,
+          "minute": "4",
+          "bin": 0
+        },
+        {
+          "team": 2503137536,
+          "minute": "6",
+          "bin": 0
+        },
+        {
+          "team": 2503137536,
+          "minute": "30",
+          "bin": 1
+        },
+        {
+          "team": 3465326976,
+          "minute": "37",
+          "bin": 2
+        }
+      ],
+      "firstScorer": 2503137536,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874763",
+      "date": "2026-10-12T18:45Z",
+      "home": 4280391182,
+      "away": 3350935335,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 4280391182,
+          "minute": "36",
+          "bin": 2
+        },
+        {
+          "team": 3350935335,
+          "minute": "43",
+          "bin": 2
+        },
+        {
+          "team": 4280391182,
+          "minute": "67",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 4280391182,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874959",
+      "date": "2026-10-16T18:45Z",
+      "home": 3551984340,
+      "away": 611870388,
+      "hg": 4,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3551984340,
+          "minute": "9",
+          "bin": 0
+        },
+        {
+          "team": 611870388,
+          "minute": "15",
+          "bin": 0
+        },
+        {
+          "team": 3551984340,
+          "minute": "26",
+          "bin": 1
+        },
+        {
+          "team": 3551984340,
+          "minute": "30",
+          "bin": 1
+        },
+        {
+          "team": 611870388,
+          "minute": "37",
+          "bin": 2
+        },
+        {
+          "team": 3551984340,
+          "minute": "57",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 3551984340,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874760",
+      "date": "2026-10-17T13:00Z",
+      "home": 3465326976,
+      "away": 3429601513,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3465326976,
+          "minute": "49",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 3465326976,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874953",
+      "date": "2026-10-17T16:00Z",
+      "home": 663567942,
+      "away": 3417040367,
+      "hg": 1,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 663567942,
+          "minute": "10",
+          "bin": 0
+        },
+        {
+          "team": 3417040367,
+          "minute": "44",
+          "bin": 2
+        },
+        {
+          "team": 3417040367,
+          "minute": "69",
+          "bin": 5
+        },
+        {
+          "team": 3417040367,
+          "minute": "83",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 663567942,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874935",
+      "date": "2026-10-17T18:45Z",
+      "home": 2267057376,
+      "away": 3939292337,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2267057376,
+          "minute": "50",
+          "bin": 4
+        },
+        {
+          "team": 2267057376,
+          "minute": "68",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2267057376,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874771",
+      "date": "2026-10-18T10:30Z",
+      "home": 3350935335,
+      "away": 1063453040,
+      "hg": 0,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 1063453040,
+          "minute": "11",
+          "bin": 0
+        },
+        {
+          "team": 1063453040,
+          "minute": "33",
+          "bin": 2
+        },
+        {
+          "team": 1063453040,
+          "minute": "86",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 1063453040,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874774",
+      "date": "2026-10-18T13:00Z",
+      "home": 882974108,
+      "away": 2777383916,
+      "hg": 1,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 2777383916,
+          "minute": "32",
+          "bin": 2
+        },
+        {
+          "team": 2777383916,
+          "minute": "36",
+          "bin": 2
+        },
+        {
+          "team": 882974108,
+          "minute": "42",
+          "bin": 2
+        },
+        {
+          "team": 2777383916,
+          "minute": "56",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 2777383916,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874978",
+      "date": "2026-10-18T16:00Z",
+      "home": 2034419792,
+      "away": 2503137536,
+      "hg": 3,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 2034419792,
+          "minute": "24",
+          "bin": 1
+        },
+        {
+          "team": 2034419792,
+          "minute": "43",
+          "bin": 2
+        },
+        {
+          "team": 2034419792,
+          "minute": "57",
+          "bin": 4
+        },
+        {
+          "team": 2503137536,
+          "minute": "66",
+          "bin": 5
+        },
+        {
+          "team": 2503137536,
+          "minute": "81",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2034419792,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874765",
+      "date": "2026-10-18T18:45Z",
+      "home": 2032542557,
+      "away": 2141390539,
+      "hg": 0,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 2141390539,
+          "minute": "37",
+          "bin": 2
+        },
+        {
+          "team": 2141390539,
+          "minute": "66",
+          "bin": 5
+        },
+        {
+          "team": 2141390539,
+          "minute": "89",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2141390539,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874762",
+      "date": "2026-10-19T16:30Z",
+      "home": 1713673705,
+      "away": 3980540039,
+      "hg": 4,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 1713673705,
+          "minute": "39",
+          "bin": 2
+        },
+        {
+          "team": 1713673705,
+          "minute": "47",
+          "bin": 4
+        },
+        {
+          "team": 1713673705,
+          "minute": "66",
+          "bin": 5
+        },
+        {
+          "team": 1713673705,
+          "minute": "79",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 1713673705,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874784",
+      "date": "2026-10-19T18:45Z",
+      "home": 3463794015,
+      "away": 4280391182,
+      "hg": 0,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 4280391182,
+          "minute": "4",
+          "bin": 0
+        },
+        {
+          "team": 4280391182,
+          "minute": "24",
+          "bin": 1
+        },
+        {
+          "team": 4280391182,
+          "minute": "69",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 4280391182,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874957",
+      "date": "2026-10-23T18:45Z",
+      "home": 4280391182,
+      "away": 1713673705,
+      "hg": 3,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 4280391182,
+          "minute": "39",
+          "bin": 2
+        },
+        {
+          "team": 1713673705,
+          "minute": "47",
+          "bin": 4
+        },
+        {
+          "team": 4280391182,
+          "minute": "61",
+          "bin": 5
+        },
+        {
+          "team": 4280391182,
+          "minute": "72",
+          "bin": 5
+        },
+        {
+          "team": 1713673705,
+          "minute": "90+4",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 4280391182,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874958",
+      "date": "2026-10-24T13:00Z",
+      "home": 3980540039,
+      "away": 663567942,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 663567942,
+          "minute": "57",
+          "bin": 4
+        },
+        {
+          "team": 663567942,
+          "minute": "80",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 663567942,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874961",
+      "date": "2026-10-24T13:00Z",
+      "home": 2777383916,
+      "away": 611870388,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2777383916,
+          "minute": "49",
+          "bin": 4
+        },
+        {
+          "team": 2777383916,
+          "minute": "60",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 2777383916,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874948",
+      "date": "2026-10-24T16:00Z",
+      "home": 3429601513,
+      "away": 2267057376,
+      "hg": 3,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 3429601513,
+          "minute": "28",
+          "bin": 1
+        },
+        {
+          "team": 3429601513,
+          "minute": "48",
+          "bin": 4
+        },
+        {
+          "team": 2267057376,
+          "minute": "69",
+          "bin": 5
+        },
+        {
+          "team": 2267057376,
+          "minute": "74",
+          "bin": 5
+        },
+        {
+          "team": 3429601513,
+          "minute": "83",
+          "bin": 6
+        },
+        {
+          "team": 2267057376,
+          "minute": "89",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3429601513,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874955",
+      "date": "2026-10-24T18:45Z",
+      "home": 2141390539,
+      "away": 3463794015,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2141390539,
+          "minute": "50",
+          "bin": 4
+        },
+        {
+          "team": 2141390539,
+          "minute": "58",
+          "bin": 4
+        },
+        {
+          "team": 3463794015,
+          "minute": "90+5",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 2141390539,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401875036",
+      "date": "2026-10-25T11:30Z",
+      "home": 3417040367,
+      "away": 882974108,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 882974108,
+          "minute": "65",
+          "bin": 5
+        },
+        {
+          "team": 3417040367,
+          "minute": "90+1",
+          "bin": 7
+        },
+        {
+          "team": 3417040367,
+          "minute": "90+7",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 882974108,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874952",
+      "date": "2026-10-25T14:00Z",
+      "home": 3939292337,
+      "away": 3465326976,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3939292337,
+          "minute": "25",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 3939292337,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874972",
+      "date": "2026-10-25T14:00Z",
+      "home": 2503137536,
+      "away": 3551984340,
+      "hg": 4,
+      "ag": 4,
+      "goals": [
+        {
+          "team": 3551984340,
+          "minute": "1",
+          "bin": 0
+        },
+        {
+          "team": 2503137536,
+          "minute": "14",
+          "bin": 0
+        },
+        {
+          "team": 3551984340,
+          "minute": "17",
+          "bin": 1
+        },
+        {
+          "team": 2503137536,
+          "minute": "33",
+          "bin": 2
+        },
+        {
+          "team": 2503137536,
+          "minute": "45",
+          "bin": 2
+        },
+        {
+          "team": 3551984340,
+          "minute": "48",
+          "bin": 4
+        },
+        {
+          "team": 2503137536,
+          "minute": "50",
+          "bin": 4
+        },
+        {
+          "team": 3551984340,
+          "minute": "82",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3551984340,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874772",
+      "date": "2026-10-25T17:00Z",
+      "home": 1063453040,
+      "away": 2032542557,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 2032542557,
+          "minute": "29",
+          "bin": 1
+        },
+        {
+          "team": 2032542557,
+          "minute": "41",
+          "bin": 2
+        }
+      ],
+      "firstScorer": 2032542557,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874779",
+      "date": "2026-10-25T19:45Z",
+      "home": 3350935335,
+      "away": 2034419792,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 2034419792,
+          "minute": "6",
+          "bin": 0
+        },
+        {
+          "team": 2034419792,
+          "minute": "65",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2034419792,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874980",
+      "date": "2026-10-27T17:30Z",
+      "home": 611870388,
+      "away": 2141390539,
+      "hg": 2,
+      "ag": 6,
+      "goals": [
+        {
+          "team": 2141390539,
+          "minute": "2",
+          "bin": 0
+        },
+        {
+          "team": 611870388,
+          "minute": "7",
+          "bin": 0
+        },
+        {
+          "team": 2141390539,
+          "minute": "13",
+          "bin": 0
+        },
+        {
+          "team": 2141390539,
+          "minute": "16",
+          "bin": 1
+        },
+        {
+          "team": 611870388,
+          "minute": "43",
+          "bin": 2
+        },
+        {
+          "team": 2141390539,
+          "minute": "45+1",
+          "bin": 3
+        },
+        {
+          "team": 2141390539,
+          "minute": "55",
+          "bin": 4
+        },
+        {
+          "team": 2141390539,
+          "minute": "65",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2141390539,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874780",
+      "date": "2026-10-27T19:45Z",
+      "home": 2267057376,
+      "away": 3980540039,
+      "hg": 4,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3980540039,
+          "minute": "10",
+          "bin": 0
+        },
+        {
+          "team": 2267057376,
+          "minute": "15",
+          "bin": 0
+        },
+        {
+          "team": 2267057376,
+          "minute": "21",
+          "bin": 1
+        },
+        {
+          "team": 3980540039,
+          "minute": "81",
+          "bin": 6
+        },
+        {
+          "team": 2267057376,
+          "minute": "85",
+          "bin": 6
+        },
+        {
+          "team": 2267057376,
+          "minute": "87",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3980540039,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874786",
+      "date": "2026-10-27T19:45Z",
+      "home": 4280391182,
+      "away": 2777383916,
+      "hg": 1,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 4280391182,
+          "minute": "24",
+          "bin": 1
+        },
+        {
+          "team": 2777383916,
+          "minute": "81",
+          "bin": 6
+        },
+        {
+          "team": 2777383916,
+          "minute": "87",
+          "bin": 6
+        },
+        {
+          "team": 2777383916,
+          "minute": "90+2",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 4280391182,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874773",
+      "date": "2026-10-28T17:30Z",
+      "home": 3465326976,
+      "away": 3417040367,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3417040367,
+          "minute": "79",
+          "bin": 6
+        },
+        {
+          "team": 3417040367,
+          "minute": "82",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3417040367,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874965",
+      "date": "2026-10-28T17:30Z",
+      "home": 3463794015,
+      "away": 3350935335,
+      "hg": 0,
+      "ag": 0,
+      "goals": [],
+      "firstScorer": null,
+      "firstGoalStatus": "goalless"
+    },
+    {
+      "id": "401874993",
+      "date": "2026-10-28T17:30Z",
+      "home": 2034419792,
+      "away": 663567942,
+      "hg": 2,
+      "ag": 4,
+      "goals": [
+        {
+          "team": 663567942,
+          "minute": "8",
+          "bin": 0
+        },
+        {
+          "team": 2034419792,
+          "minute": "14",
+          "bin": 0
+        },
+        {
+          "team": 2034419792,
+          "minute": "27",
+          "bin": 1
+        },
+        {
+          "team": 663567942,
+          "minute": "60",
+          "bin": 4
+        },
+        {
+          "team": 663567942,
+          "minute": "62",
+          "bin": 5
+        },
+        {
+          "team": 663567942,
+          "minute": "86",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 663567942,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874799",
+      "date": "2026-10-28T19:45Z",
+      "home": 1713673705,
+      "away": 3429601513,
+      "hg": 1,
+      "ag": 4,
+      "goals": [
+        {
+          "team": 3429601513,
+          "minute": "10",
+          "bin": 0
+        },
+        {
+          "team": 1713673705,
+          "minute": "43",
+          "bin": 2
+        },
+        {
+          "team": 3429601513,
+          "minute": "48",
+          "bin": 4
+        },
+        {
+          "team": 3429601513,
+          "minute": "62",
+          "bin": 5
+        },
+        {
+          "team": 3429601513,
+          "minute": "67",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3429601513,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874988",
+      "date": "2026-10-28T19:45Z",
+      "home": 3939292337,
+      "away": 2032542557,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3939292337,
+          "minute": "12",
+          "bin": 0
+        },
+        {
+          "team": 3939292337,
+          "minute": "28",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 3939292337,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874976",
+      "date": "2026-10-29T17:30Z",
+      "home": 3551984340,
+      "away": 1063453040,
+      "hg": 5,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3551984340,
+          "minute": "25",
+          "bin": 1
+        },
+        {
+          "team": 3551984340,
+          "minute": "45+1",
+          "bin": 3
+        },
+        {
+          "team": 3551984340,
+          "minute": "59",
+          "bin": 4
+        },
+        {
+          "team": 3551984340,
+          "minute": "72",
+          "bin": 5
+        },
+        {
+          "team": 1063453040,
+          "minute": "82",
+          "bin": 6
+        },
+        {
+          "team": 3551984340,
+          "minute": "90+4",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 3551984340,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874969",
+      "date": "2026-10-29T19:45Z",
+      "home": 882974108,
+      "away": 2503137536,
+      "hg": 2,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 2503137536,
+          "minute": "41",
+          "bin": 2
+        },
+        {
+          "team": 882974108,
+          "minute": "53",
+          "bin": 4
+        },
+        {
+          "team": 882974108,
+          "minute": "61",
+          "bin": 5
+        },
+        {
+          "team": 2503137536,
+          "minute": "74",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2503137536,
+      "firstGoalStatus": "known"
+    }
+  ],
+  "completedMatches": 90,
+  "excluded": []
+}
