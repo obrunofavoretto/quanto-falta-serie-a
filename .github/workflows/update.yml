@@ -1,6 +1,9 @@
 name: Atualizar dados da liga
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['update.py']
   schedule:
     - cron: '5 * * * *'
 permissions:
