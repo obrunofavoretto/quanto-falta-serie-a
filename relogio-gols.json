@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-10-31T15:41:20.952437+00:00",
+  "fetchedAt": "2026-10-31T19:52:21.076794+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ita.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -32,7 +32,7 @@
       "id": 2267057376,
       "name": "Roma",
       "sourceId": "104",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 2777383916,
@@ -59,6 +59,12 @@
       "completed": 9
     },
     {
+      "id": 663567942,
+      "name": "Bologna",
+      "sourceId": "107",
+      "completed": 10
+    },
+    {
       "id": 2032542557,
       "name": "Juventus",
       "sourceId": "111",
@@ -74,12 +80,6 @@
       "id": 3980540039,
       "name": "Cagliari",
       "sourceId": "2925",
-      "completed": 9
-    },
-    {
-      "id": 663567942,
-      "name": "Bologna",
-      "sourceId": "107",
       "completed": 9
     },
     {
@@ -110,13 +110,7 @@
       "id": 1713673705,
       "name": "Monza",
       "sourceId": "4007",
-      "completed": 9
-    },
-    {
-      "id": 3350935335,
-      "name": "Udinese",
-      "sourceId": "118",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 882974108,
@@ -129,6 +123,12 @@
       "name": "Parma",
       "sourceId": "115",
       "completed": 9
+    },
+    {
+      "id": 3350935335,
+      "name": "Udinese",
+      "sourceId": "118",
+      "completed": 10
     },
     {
       "id": 3465326976,
@@ -2635,8 +2635,82 @@
       ],
       "firstScorer": 2503137536,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874798",
+      "date": "2026-10-31T14:00Z",
+      "home": 663567942,
+      "away": 1713673705,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 1713673705,
+          "minute": "6",
+          "bin": 0
+        },
+        {
+          "team": 663567942,
+          "minute": "33",
+          "bin": 2
+        },
+        {
+          "team": 663567942,
+          "minute": "59",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 1713673705,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874990",
+      "date": "2026-10-31T17:00Z",
+      "home": 3350935335,
+      "away": 2267057376,
+      "hg": 2,
+      "ag": 5,
+      "goals": [
+        {
+          "team": 2267057376,
+          "minute": "10",
+          "bin": 0
+        },
+        {
+          "team": 2267057376,
+          "minute": "31",
+          "bin": 2
+        },
+        {
+          "team": 2267057376,
+          "minute": "33",
+          "bin": 2
+        },
+        {
+          "team": 2267057376,
+          "minute": "37",
+          "bin": 2
+        },
+        {
+          "team": 3350935335,
+          "minute": "50",
+          "bin": 4
+        },
+        {
+          "team": 3350935335,
+          "minute": "78",
+          "bin": 6
+        },
+        {
+          "team": 2267057376,
+          "minute": "90+2",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 2267057376,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 90,
+  "completedMatches": 92,
   "excluded": []
 }

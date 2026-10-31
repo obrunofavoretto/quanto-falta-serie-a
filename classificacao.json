@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-10-31T15:41:20.952437+00:00",
+  "fetchedAt": "2026-10-31T19:52:21.076794+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -30,10 +30,10 @@
     {
       "id": 2267057376,
       "name": "Roma",
-      "points": 21,
-      "played": 9,
-      "goalsFor": 23,
-      "goalsAgainst": 8,
+      "points": 24,
+      "played": 10,
+      "goalsFor": 28,
+      "goalsAgainst": 10,
       "position": 3,
       "sourceId": "104"
     },
@@ -78,13 +78,23 @@
       "sourceId": "114"
     },
     {
+      "id": 663567942,
+      "name": "Bologna",
+      "points": 14,
+      "played": 10,
+      "goalsFor": 14,
+      "goalsAgainst": 13,
+      "position": 8,
+      "sourceId": "107"
+    },
+    {
       "id": 2032542557,
       "name": "Juventus",
       "points": 14,
       "played": 9,
       "goalsFor": 11,
       "goalsAgainst": 10,
-      "position": 8,
+      "position": 9,
       "sourceId": "111"
     },
     {
@@ -94,7 +104,7 @@
       "played": 9,
       "goalsFor": 14,
       "goalsAgainst": 14,
-      "position": 9,
+      "position": 10,
       "sourceId": "239"
     },
     {
@@ -104,18 +114,8 @@
       "played": 9,
       "goalsFor": 8,
       "goalsAgainst": 13,
-      "position": 10,
-      "sourceId": "2925"
-    },
-    {
-      "id": 663567942,
-      "name": "Bologna",
-      "points": 11,
-      "played": 9,
-      "goalsFor": 12,
-      "goalsAgainst": 12,
       "position": 11,
-      "sourceId": "107"
+      "sourceId": "2925"
     },
     {
       "id": 2503137536,
@@ -161,21 +161,11 @@
       "id": 1713673705,
       "name": "Monza",
       "points": 7,
-      "played": 9,
-      "goalsFor": 16,
-      "goalsAgainst": 22,
+      "played": 10,
+      "goalsFor": 17,
+      "goalsAgainst": 24,
       "position": 16,
       "sourceId": "4007"
-    },
-    {
-      "id": 3350935335,
-      "name": "Udinese",
-      "points": 5,
-      "played": 9,
-      "goalsFor": 9,
-      "goalsAgainst": 18,
-      "position": 17,
-      "sourceId": "118"
     },
     {
       "id": 882974108,
@@ -184,7 +174,7 @@
       "played": 9,
       "goalsFor": 11,
       "goalsAgainst": 21,
-      "position": 18,
+      "position": 17,
       "sourceId": "109"
     },
     {
@@ -194,8 +184,18 @@
       "played": 9,
       "goalsFor": 5,
       "goalsAgainst": 15,
-      "position": 19,
+      "position": 18,
       "sourceId": "115"
+    },
+    {
+      "id": 3350935335,
+      "name": "Udinese",
+      "points": 5,
+      "played": 10,
+      "goalsFor": 11,
+      "goalsAgainst": 23,
+      "position": 19,
+      "sourceId": "118"
     },
     {
       "id": 3465326976,
