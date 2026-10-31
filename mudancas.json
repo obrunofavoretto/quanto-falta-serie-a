@@ -1,6 +1,212 @@
 {
   "current": {
     "date": "2026-10-31",
+    "fetchedAt": "2026-10-31T23:17:35.110231+00:00",
+    "teams": [
+      {
+        "id": 2141390539,
+        "name": "Lazio",
+        "points": 25,
+        "played": 9,
+        "goalsFor": 22,
+        "goalsAgainst": 7,
+        "position": 1,
+        "sourceId": "112"
+      },
+      {
+        "id": 3417040367,
+        "name": "Inter Milan",
+        "points": 25,
+        "played": 10,
+        "goalsFor": 26,
+        "goalsAgainst": 13,
+        "position": 2,
+        "sourceId": "110"
+      },
+      {
+        "id": 2267057376,
+        "name": "Roma",
+        "points": 24,
+        "played": 10,
+        "goalsFor": 28,
+        "goalsAgainst": 10,
+        "position": 3,
+        "sourceId": "104"
+      },
+      {
+        "id": 2034419792,
+        "name": "AC Milan",
+        "points": 21,
+        "played": 10,
+        "goalsFor": 21,
+        "goalsAgainst": 12,
+        "position": 4,
+        "sourceId": "103"
+      },
+      {
+        "id": 2777383916,
+        "name": "Como",
+        "points": 20,
+        "played": 9,
+        "goalsFor": 17,
+        "goalsAgainst": 8,
+        "position": 5,
+        "sourceId": "2572"
+      },
+      {
+        "id": 3551984340,
+        "name": "Frosinone",
+        "points": 17,
+        "played": 9,
+        "goalsFor": 22,
+        "goalsAgainst": 14,
+        "position": 6,
+        "sourceId": "4057"
+      },
+      {
+        "id": 3429601513,
+        "name": "Napoli",
+        "points": 14,
+        "played": 9,
+        "goalsFor": 17,
+        "goalsAgainst": 11,
+        "position": 7,
+        "sourceId": "114"
+      },
+      {
+        "id": 663567942,
+        "name": "Bologna",
+        "points": 14,
+        "played": 10,
+        "goalsFor": 14,
+        "goalsAgainst": 13,
+        "position": 8,
+        "sourceId": "107"
+      },
+      {
+        "id": 2032542557,
+        "name": "Juventus",
+        "points": 14,
+        "played": 9,
+        "goalsFor": 11,
+        "goalsAgainst": 10,
+        "position": 9,
+        "sourceId": "111"
+      },
+      {
+        "id": 4280391182,
+        "name": "Torino",
+        "points": 13,
+        "played": 9,
+        "goalsFor": 14,
+        "goalsAgainst": 14,
+        "position": 10,
+        "sourceId": "239"
+      },
+      {
+        "id": 3980540039,
+        "name": "Cagliari",
+        "points": 13,
+        "played": 9,
+        "goalsFor": 8,
+        "goalsAgainst": 13,
+        "position": 11,
+        "sourceId": "2925"
+      },
+      {
+        "id": 2503137536,
+        "name": "Atalanta",
+        "points": 11,
+        "played": 9,
+        "goalsFor": 16,
+        "goalsAgainst": 17,
+        "position": 12,
+        "sourceId": "105"
+      },
+      {
+        "id": 3939292337,
+        "name": "Genoa",
+        "points": 10,
+        "played": 9,
+        "goalsFor": 8,
+        "goalsAgainst": 13,
+        "position": 13,
+        "sourceId": "3263"
+      },
+      {
+        "id": 1063453040,
+        "name": "Lecce",
+        "points": 9,
+        "played": 9,
+        "goalsFor": 10,
+        "goalsAgainst": 19,
+        "position": 14,
+        "sourceId": "113"
+      },
+      {
+        "id": 611870388,
+        "name": "Sassuolo",
+        "points": 8,
+        "played": 9,
+        "goalsFor": 14,
+        "goalsAgainst": 22,
+        "position": 15,
+        "sourceId": "3997"
+      },
+      {
+        "id": 1713673705,
+        "name": "Monza",
+        "points": 7,
+        "played": 10,
+        "goalsFor": 17,
+        "goalsAgainst": 24,
+        "position": 16,
+        "sourceId": "4007"
+      },
+      {
+        "id": 882974108,
+        "name": "Fiorentina",
+        "points": 5,
+        "played": 9,
+        "goalsFor": 11,
+        "goalsAgainst": 21,
+        "position": 17,
+        "sourceId": "109"
+      },
+      {
+        "id": 3463794015,
+        "name": "Parma",
+        "points": 5,
+        "played": 9,
+        "goalsFor": 5,
+        "goalsAgainst": 15,
+        "position": 18,
+        "sourceId": "115"
+      },
+      {
+        "id": 3350935335,
+        "name": "Udinese",
+        "points": 5,
+        "played": 10,
+        "goalsFor": 11,
+        "goalsAgainst": 23,
+        "position": 19,
+        "sourceId": "118"
+      },
+      {
+        "id": 3465326976,
+        "name": "Venezia",
+        "points": 3,
+        "played": 9,
+        "goalsFor": 6,
+        "goalsAgainst": 19,
+        "position": 20,
+        "sourceId": "17530"
+      }
+    ]
+  },
+  "before": {
+    "date": "2026-10-31",
     "fetchedAt": "2026-10-31T19:52:21.076794+00:00",
     "teams": [
       {
@@ -192,212 +398,6 @@
         "goalsAgainst": 23,
         "position": 19,
         "sourceId": "118"
-      },
-      {
-        "id": 3465326976,
-        "name": "Venezia",
-        "points": 3,
-        "played": 9,
-        "goalsFor": 6,
-        "goalsAgainst": 19,
-        "position": 20,
-        "sourceId": "17530"
-      }
-    ]
-  },
-  "before": {
-    "date": "2026-10-31",
-    "fetchedAt": "2026-10-31T15:41:20.952437+00:00",
-    "teams": [
-      {
-        "id": 3417040367,
-        "name": "Inter Milan",
-        "points": 25,
-        "played": 9,
-        "goalsFor": 25,
-        "goalsAgainst": 10,
-        "position": 1,
-        "sourceId": "110"
-      },
-      {
-        "id": 2141390539,
-        "name": "Lazio",
-        "points": 25,
-        "played": 9,
-        "goalsFor": 22,
-        "goalsAgainst": 7,
-        "position": 2,
-        "sourceId": "112"
-      },
-      {
-        "id": 2267057376,
-        "name": "Roma",
-        "points": 21,
-        "played": 9,
-        "goalsFor": 23,
-        "goalsAgainst": 8,
-        "position": 3,
-        "sourceId": "104"
-      },
-      {
-        "id": 2777383916,
-        "name": "Como",
-        "points": 20,
-        "played": 9,
-        "goalsFor": 17,
-        "goalsAgainst": 8,
-        "position": 4,
-        "sourceId": "2572"
-      },
-      {
-        "id": 2034419792,
-        "name": "AC Milan",
-        "points": 18,
-        "played": 9,
-        "goalsFor": 18,
-        "goalsAgainst": 11,
-        "position": 5,
-        "sourceId": "103"
-      },
-      {
-        "id": 3551984340,
-        "name": "Frosinone",
-        "points": 17,
-        "played": 9,
-        "goalsFor": 22,
-        "goalsAgainst": 14,
-        "position": 6,
-        "sourceId": "4057"
-      },
-      {
-        "id": 3429601513,
-        "name": "Napoli",
-        "points": 14,
-        "played": 9,
-        "goalsFor": 17,
-        "goalsAgainst": 11,
-        "position": 7,
-        "sourceId": "114"
-      },
-      {
-        "id": 2032542557,
-        "name": "Juventus",
-        "points": 14,
-        "played": 9,
-        "goalsFor": 11,
-        "goalsAgainst": 10,
-        "position": 8,
-        "sourceId": "111"
-      },
-      {
-        "id": 4280391182,
-        "name": "Torino",
-        "points": 13,
-        "played": 9,
-        "goalsFor": 14,
-        "goalsAgainst": 14,
-        "position": 9,
-        "sourceId": "239"
-      },
-      {
-        "id": 3980540039,
-        "name": "Cagliari",
-        "points": 13,
-        "played": 9,
-        "goalsFor": 8,
-        "goalsAgainst": 13,
-        "position": 10,
-        "sourceId": "2925"
-      },
-      {
-        "id": 663567942,
-        "name": "Bologna",
-        "points": 11,
-        "played": 9,
-        "goalsFor": 12,
-        "goalsAgainst": 12,
-        "position": 11,
-        "sourceId": "107"
-      },
-      {
-        "id": 2503137536,
-        "name": "Atalanta",
-        "points": 11,
-        "played": 9,
-        "goalsFor": 16,
-        "goalsAgainst": 17,
-        "position": 12,
-        "sourceId": "105"
-      },
-      {
-        "id": 3939292337,
-        "name": "Genoa",
-        "points": 10,
-        "played": 9,
-        "goalsFor": 8,
-        "goalsAgainst": 13,
-        "position": 13,
-        "sourceId": "3263"
-      },
-      {
-        "id": 1063453040,
-        "name": "Lecce",
-        "points": 9,
-        "played": 9,
-        "goalsFor": 10,
-        "goalsAgainst": 19,
-        "position": 14,
-        "sourceId": "113"
-      },
-      {
-        "id": 611870388,
-        "name": "Sassuolo",
-        "points": 8,
-        "played": 9,
-        "goalsFor": 14,
-        "goalsAgainst": 22,
-        "position": 15,
-        "sourceId": "3997"
-      },
-      {
-        "id": 1713673705,
-        "name": "Monza",
-        "points": 7,
-        "played": 9,
-        "goalsFor": 16,
-        "goalsAgainst": 22,
-        "position": 16,
-        "sourceId": "4007"
-      },
-      {
-        "id": 3350935335,
-        "name": "Udinese",
-        "points": 5,
-        "played": 9,
-        "goalsFor": 9,
-        "goalsAgainst": 18,
-        "position": 17,
-        "sourceId": "118"
-      },
-      {
-        "id": 882974108,
-        "name": "Fiorentina",
-        "points": 5,
-        "played": 9,
-        "goalsFor": 11,
-        "goalsAgainst": 21,
-        "position": 18,
-        "sourceId": "109"
-      },
-      {
-        "id": 3463794015,
-        "name": "Parma",
-        "points": 5,
-        "played": 9,
-        "goalsFor": 5,
-        "goalsAgainst": 15,
-        "position": 19,
-        "sourceId": "115"
       },
       {
         "id": 3465326976,
@@ -607,6 +607,212 @@
           "goalsAgainst": 15,
           "position": 19,
           "sourceId": "115"
+        },
+        {
+          "id": 3465326976,
+          "name": "Venezia",
+          "points": 3,
+          "played": 9,
+          "goalsFor": 6,
+          "goalsAgainst": 19,
+          "position": 20,
+          "sourceId": "17530"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "fetchedAt": "2026-10-31T19:52:21.076794+00:00",
+      "teams": [
+        {
+          "id": 3417040367,
+          "name": "Inter Milan",
+          "points": 25,
+          "played": 9,
+          "goalsFor": 25,
+          "goalsAgainst": 10,
+          "position": 1,
+          "sourceId": "110"
+        },
+        {
+          "id": 2141390539,
+          "name": "Lazio",
+          "points": 25,
+          "played": 9,
+          "goalsFor": 22,
+          "goalsAgainst": 7,
+          "position": 2,
+          "sourceId": "112"
+        },
+        {
+          "id": 2267057376,
+          "name": "Roma",
+          "points": 24,
+          "played": 10,
+          "goalsFor": 28,
+          "goalsAgainst": 10,
+          "position": 3,
+          "sourceId": "104"
+        },
+        {
+          "id": 2777383916,
+          "name": "Como",
+          "points": 20,
+          "played": 9,
+          "goalsFor": 17,
+          "goalsAgainst": 8,
+          "position": 4,
+          "sourceId": "2572"
+        },
+        {
+          "id": 2034419792,
+          "name": "AC Milan",
+          "points": 18,
+          "played": 9,
+          "goalsFor": 18,
+          "goalsAgainst": 11,
+          "position": 5,
+          "sourceId": "103"
+        },
+        {
+          "id": 3551984340,
+          "name": "Frosinone",
+          "points": 17,
+          "played": 9,
+          "goalsFor": 22,
+          "goalsAgainst": 14,
+          "position": 6,
+          "sourceId": "4057"
+        },
+        {
+          "id": 3429601513,
+          "name": "Napoli",
+          "points": 14,
+          "played": 9,
+          "goalsFor": 17,
+          "goalsAgainst": 11,
+          "position": 7,
+          "sourceId": "114"
+        },
+        {
+          "id": 663567942,
+          "name": "Bologna",
+          "points": 14,
+          "played": 10,
+          "goalsFor": 14,
+          "goalsAgainst": 13,
+          "position": 8,
+          "sourceId": "107"
+        },
+        {
+          "id": 2032542557,
+          "name": "Juventus",
+          "points": 14,
+          "played": 9,
+          "goalsFor": 11,
+          "goalsAgainst": 10,
+          "position": 9,
+          "sourceId": "111"
+        },
+        {
+          "id": 4280391182,
+          "name": "Torino",
+          "points": 13,
+          "played": 9,
+          "goalsFor": 14,
+          "goalsAgainst": 14,
+          "position": 10,
+          "sourceId": "239"
+        },
+        {
+          "id": 3980540039,
+          "name": "Cagliari",
+          "points": 13,
+          "played": 9,
+          "goalsFor": 8,
+          "goalsAgainst": 13,
+          "position": 11,
+          "sourceId": "2925"
+        },
+        {
+          "id": 2503137536,
+          "name": "Atalanta",
+          "points": 11,
+          "played": 9,
+          "goalsFor": 16,
+          "goalsAgainst": 17,
+          "position": 12,
+          "sourceId": "105"
+        },
+        {
+          "id": 3939292337,
+          "name": "Genoa",
+          "points": 10,
+          "played": 9,
+          "goalsFor": 8,
+          "goalsAgainst": 13,
+          "position": 13,
+          "sourceId": "3263"
+        },
+        {
+          "id": 1063453040,
+          "name": "Lecce",
+          "points": 9,
+          "played": 9,
+          "goalsFor": 10,
+          "goalsAgainst": 19,
+          "position": 14,
+          "sourceId": "113"
+        },
+        {
+          "id": 611870388,
+          "name": "Sassuolo",
+          "points": 8,
+          "played": 9,
+          "goalsFor": 14,
+          "goalsAgainst": 22,
+          "position": 15,
+          "sourceId": "3997"
+        },
+        {
+          "id": 1713673705,
+          "name": "Monza",
+          "points": 7,
+          "played": 10,
+          "goalsFor": 17,
+          "goalsAgainst": 24,
+          "position": 16,
+          "sourceId": "4007"
+        },
+        {
+          "id": 882974108,
+          "name": "Fiorentina",
+          "points": 5,
+          "played": 9,
+          "goalsFor": 11,
+          "goalsAgainst": 21,
+          "position": 17,
+          "sourceId": "109"
+        },
+        {
+          "id": 3463794015,
+          "name": "Parma",
+          "points": 5,
+          "played": 9,
+          "goalsFor": 5,
+          "goalsAgainst": 15,
+          "position": 18,
+          "sourceId": "115"
+        },
+        {
+          "id": 3350935335,
+          "name": "Udinese",
+          "points": 5,
+          "played": 10,
+          "goalsFor": 11,
+          "goalsAgainst": 23,
+          "position": 19,
+          "sourceId": "118"
         },
         {
           "id": 3465326976,

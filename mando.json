@@ -1,32 +1,10 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-10-31T19:52:21.076794+00:00",
+  "fetchedAt": "2026-10-31T23:17:35.110231+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
-    {
-      "id": 3417040367,
-      "name": "Inter Milan",
-      "home": {
-        "played": 5,
-        "points": 15,
-        "wins": 5,
-        "draws": 0,
-        "losses": 0,
-        "goalsFor": 17,
-        "goalsAgainst": 7
-      },
-      "away": {
-        "played": 4,
-        "points": 10,
-        "wins": 3,
-        "draws": 1,
-        "losses": 0,
-        "goalsFor": 8,
-        "goalsAgainst": 3
-      }
-    },
     {
       "id": 2141390539,
       "name": "Lazio",
@@ -47,6 +25,28 @@
         "losses": 0,
         "goalsFor": 14,
         "goalsAgainst": 3
+      }
+    },
+    {
+      "id": 3417040367,
+      "name": "Inter Milan",
+      "home": {
+        "played": 5,
+        "points": 15,
+        "wins": 5,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 17,
+        "goalsAgainst": 7
+      },
+      "away": {
+        "played": 5,
+        "points": 10,
+        "wins": 3,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 9,
+        "goalsAgainst": 6
       }
     },
     {
@@ -72,6 +72,28 @@
       }
     },
     {
+      "id": 2034419792,
+      "name": "AC Milan",
+      "home": {
+        "played": 5,
+        "points": 12,
+        "wins": 4,
+        "draws": 0,
+        "losses": 1,
+        "goalsFor": 13,
+        "goalsAgainst": 7
+      },
+      "away": {
+        "played": 5,
+        "points": 9,
+        "wins": 2,
+        "draws": 3,
+        "losses": 0,
+        "goalsFor": 8,
+        "goalsAgainst": 5
+      }
+    },
+    {
       "id": 2777383916,
       "name": "Como",
       "home": {
@@ -91,28 +113,6 @@
         "losses": 1,
         "goalsFor": 13,
         "goalsAgainst": 7
-      }
-    },
-    {
-      "id": 2034419792,
-      "name": "AC Milan",
-      "home": {
-        "played": 4,
-        "points": 9,
-        "wins": 3,
-        "draws": 0,
-        "losses": 1,
-        "goalsFor": 10,
-        "goalsAgainst": 6
-      },
-      "away": {
-        "played": 5,
-        "points": 9,
-        "wins": 2,
-        "draws": 3,
-        "losses": 0,
-        "goalsFor": 8,
-        "goalsAgainst": 5
       }
     },
     {

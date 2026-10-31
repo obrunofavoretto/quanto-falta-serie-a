@@ -1,22 +1,12 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-10-31T19:52:21.076794+00:00",
+  "fetchedAt": "2026-10-31T23:17:35.110231+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
   "sourceHistoryUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A?action=history",
   "teams": [
-    {
-      "id": 3417040367,
-      "name": "Inter Milan",
-      "points": 25,
-      "played": 9,
-      "goalsFor": 25,
-      "goalsAgainst": 10,
-      "position": 1,
-      "sourceId": "110"
-    },
     {
       "id": 2141390539,
       "name": "Lazio",
@@ -24,8 +14,18 @@
       "played": 9,
       "goalsFor": 22,
       "goalsAgainst": 7,
-      "position": 2,
+      "position": 1,
       "sourceId": "112"
+    },
+    {
+      "id": 3417040367,
+      "name": "Inter Milan",
+      "points": 25,
+      "played": 10,
+      "goalsFor": 26,
+      "goalsAgainst": 13,
+      "position": 2,
+      "sourceId": "110"
     },
     {
       "id": 2267057376,
@@ -38,24 +38,24 @@
       "sourceId": "104"
     },
     {
+      "id": 2034419792,
+      "name": "AC Milan",
+      "points": 21,
+      "played": 10,
+      "goalsFor": 21,
+      "goalsAgainst": 12,
+      "position": 4,
+      "sourceId": "103"
+    },
+    {
       "id": 2777383916,
       "name": "Como",
       "points": 20,
       "played": 9,
       "goalsFor": 17,
       "goalsAgainst": 8,
-      "position": 4,
-      "sourceId": "2572"
-    },
-    {
-      "id": 2034419792,
-      "name": "AC Milan",
-      "points": 18,
-      "played": 9,
-      "goalsFor": 18,
-      "goalsAgainst": 11,
       "position": 5,
-      "sourceId": "103"
+      "sourceId": "2572"
     },
     {
       "id": 3551984340,
