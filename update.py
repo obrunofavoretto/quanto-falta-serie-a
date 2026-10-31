@@ -1,5 +1,7 @@
 """Uma coleta Wikipedia + uma ESPN por projeto, sem credenciais."""
-import json, re, os, sys, urllib.request, zlib
+import json, re, os, sys, urllib.request, zlib, subprocess
+from urllib.error import HTTPError, URLError
+from http.client import IncompleteRead
 from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
@@ -7,7 +9,21 @@ from parser import normalized
 
 def read_url(url, maximum):
     req=urllib.request.Request(url,headers={'User-Agent':'EsporteComValorQuantoFalta/2.0 (https://esportecomvalor.wordpress.com/)','Accept':'text/html,application/json'})
-    with urllib.request.urlopen(req,timeout=40) as r: raw=r.read(maximum+1)
+    try:
+        with urllib.request.urlopen(req,timeout=40) as r: raw=r.read(maximum+1)
+    except (HTTPError, URLError, TimeoutError, IncompleteRead) as exc:
+        if not url.startswith('https://site.api.espn.com/'):
+            raise
+        print('Consulta ESPN falhou; repetindo com curl: '+str(exc), file=sys.stderr)
+        result=subprocess.run(
+            ['curl','--fail','--silent','--show-error','--retry','2',
+             '--retry-delay','3','--connect-timeout','15','--max-time','60',
+             '--max-filesize',str(maximum),url],
+            capture_output=True,timeout=200)
+        if result.returncode:
+            raise RuntimeError('ESPN indisponível via urllib e curl: '+
+                               result.stderr.decode('utf-8',errors='replace')) from exc
+        raw=result.stdout
     if len(raw)>maximum:raise ValueError('Resposta muito grande')
     return raw.decode('utf-8')
 
