@@ -54,6 +54,10 @@
         const link = target.closest('a');
         if (link) {
           const url = new URL(link.href, location.href);
+          const destination = link.dataset.ecvLeague;
+          if (destination && Object.values(leagues).includes(destination) && url.origin === location.origin) {
+            send('ecv_switch_league',tool,{ecv_control:'league_navigation',ecv_option:destination}); return;
+          }
           if (url.hostname === 'esportecomvalor.wordpress.com') { send('ecv_click_blog',tool); return; }
           if (url.origin === location.origin && validTools.has(url.hash.slice(1))) { send('ecv_navigate_tool',url.hash.slice(1)); return; }
           return;
