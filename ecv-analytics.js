@@ -64,10 +64,10 @@
         }
         if (!button || !validTools.has(tool)) return;
         if (button.tagName === 'SUMMARY') { if (!button.parentElement.open) send('ecv_expand_help',tool); return; }
-        const isTeam = button.matches('#teams button,[data-vr-team],[data-club],[data-team],#ranking [data-id]');
+        const isTeam = button.matches('#teams button,[data-vr-team],[data-club],[data-team],#ranking [data-id],[data-ecv-team]');
         if (isTeam) {
           // Capture the known club label before a synchronous re-render removes this button.
-          const name = text(button) || (button.getAttribute('aria-label') || '').replace(/^(Selecionar |Ver jogos de )/,'');
+          const name = button.hasAttribute('data-ecv-team') ? (button.getAttribute('aria-label') || '').replace(/^Selecionar /,'') : text(button) || (button.getAttribute('aria-label') || '').replace(/^(Selecionar |Ver jogos de )/,'');
           use(tool); send('ecv_select_team',tool,{ecv_team:name}); return;
         }
         const mode = button.dataset.mode;
