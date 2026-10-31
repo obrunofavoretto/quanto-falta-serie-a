@@ -25,4 +25,4 @@ syncLabel();
 fetch('./forma.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Falha');return r.json()}).then(data=>{if(data.teams?.length!==20||!data.teams.every(t=>Array.isArray(t.recent)))throw Error('Dados incompletos');live=data;syncLabel();if(!manual)choose()}).catch(()=>{live.status='fallback';syncLabel()});
 
 const reportHeight=()=>parent.postMessage({type:"ecv-projector-height",height:Math.ceil(document.querySelector("main").getBoundingClientRect().height)+16},location.origin);new ResizeObserver(reportHeight).observe(document.querySelector("main"));window.addEventListener("load",reportHeight);
-</script></html>
+</script><script src="./ecv-analytics.js?v=1"></script></html>
