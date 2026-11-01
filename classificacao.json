@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-01T13:09:17.913931+00:00",
+  "fetchedAt": "2026-11-01T18:51:25.535807+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -10,10 +10,10 @@
     {
       "id": 2141390539,
       "name": "Lazio",
-      "points": 25,
-      "played": 9,
-      "goalsFor": 22,
-      "goalsAgainst": 7,
+      "points": 28,
+      "played": 10,
+      "goalsFor": 24,
+      "goalsAgainst": 8,
       "position": 1,
       "sourceId": "112"
     },
@@ -38,31 +38,31 @@
       "sourceId": "104"
     },
     {
+      "id": 2777383916,
+      "name": "Como",
+      "points": 23,
+      "played": 10,
+      "goalsFor": 18,
+      "goalsAgainst": 8,
+      "position": 4,
+      "sourceId": "2572"
+    },
+    {
       "id": 2034419792,
       "name": "AC Milan",
       "points": 21,
       "played": 10,
       "goalsFor": 21,
       "goalsAgainst": 12,
-      "position": 4,
-      "sourceId": "103"
-    },
-    {
-      "id": 2777383916,
-      "name": "Como",
-      "points": 20,
-      "played": 9,
-      "goalsFor": 17,
-      "goalsAgainst": 8,
       "position": 5,
-      "sourceId": "2572"
+      "sourceId": "103"
     },
     {
       "id": 3551984340,
       "name": "Frosinone",
-      "points": 17,
-      "played": 9,
-      "goalsFor": 22,
+      "points": 20,
+      "played": 10,
+      "goalsFor": 24,
       "goalsAgainst": 14,
       "position": 6,
       "sourceId": "4057"
@@ -101,9 +101,9 @@
       "id": 4280391182,
       "name": "Torino",
       "points": 13,
-      "played": 9,
+      "played": 10,
       "goalsFor": 14,
-      "goalsAgainst": 14,
+      "goalsAgainst": 16,
       "position": 10,
       "sourceId": "239"
     },
@@ -111,9 +111,9 @@
       "id": 3980540039,
       "name": "Cagliari",
       "points": 13,
-      "played": 9,
-      "goalsFor": 8,
-      "goalsAgainst": 13,
+      "played": 10,
+      "goalsFor": 9,
+      "goalsAgainst": 15,
       "position": 11,
       "sourceId": "2925"
     },
@@ -201,9 +201,9 @@
       "id": 3465326976,
       "name": "Venezia",
       "points": 3,
-      "played": 9,
+      "played": 10,
       "goalsFor": 6,
-      "goalsAgainst": 19,
+      "goalsAgainst": 20,
       "position": 20,
       "sourceId": "17530"
     }
