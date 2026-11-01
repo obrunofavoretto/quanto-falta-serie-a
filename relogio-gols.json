@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-01T18:51:25.535807+00:00",
+  "fetchedAt": "2026-11-01T22:42:03.350669+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ita.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -53,10 +53,16 @@
       "completed": 10
     },
     {
+      "id": 2032542557,
+      "name": "Juventus",
+      "sourceId": "111",
+      "completed": 10
+    },
+    {
       "id": 3429601513,
       "name": "Napoli",
       "sourceId": "114",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 663567942,
@@ -65,15 +71,15 @@
       "completed": 10
     },
     {
-      "id": 2032542557,
-      "name": "Juventus",
-      "sourceId": "111",
-      "completed": 9
-    },
-    {
       "id": 4280391182,
       "name": "Torino",
       "sourceId": "239",
+      "completed": 10
+    },
+    {
+      "id": 3939292337,
+      "name": "Genoa",
+      "sourceId": "3263",
       "completed": 10
     },
     {
@@ -89,16 +95,10 @@
       "completed": 9
     },
     {
-      "id": 3939292337,
-      "name": "Genoa",
-      "sourceId": "3263",
-      "completed": 9
-    },
-    {
       "id": 1063453040,
       "name": "Lecce",
       "sourceId": "113",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 611870388,
@@ -2807,8 +2807,57 @@
       ],
       "firstScorer": 3980540039,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874968",
+      "date": "2026-11-01T17:00Z",
+      "home": 1063453040,
+      "away": 3939292337,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3939292337,
+          "minute": "11",
+          "bin": 0
+        },
+        {
+          "team": 3939292337,
+          "minute": "28",
+          "bin": 1
+        },
+        {
+          "team": 1063453040,
+          "minute": "40",
+          "bin": 2
+        }
+      ],
+      "firstScorer": 3939292337,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874949",
+      "date": "2026-11-01T19:45Z",
+      "home": 2032542557,
+      "away": 3429601513,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2032542557,
+          "minute": "70",
+          "bin": 5
+        },
+        {
+          "team": 2032542557,
+          "minute": "87",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2032542557,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 96,
+  "completedMatches": 98,
   "excluded": []
 }

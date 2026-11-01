@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-01T18:51:25.535807+00:00",
+  "fetchedAt": "2026-11-01T22:42:03.350669+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -68,13 +68,23 @@
       "sourceId": "4057"
     },
     {
+      "id": 2032542557,
+      "name": "Juventus",
+      "points": 17,
+      "played": 10,
+      "goalsFor": 13,
+      "goalsAgainst": 10,
+      "position": 7,
+      "sourceId": "111"
+    },
+    {
       "id": 3429601513,
       "name": "Napoli",
       "points": 14,
-      "played": 9,
+      "played": 10,
       "goalsFor": 17,
-      "goalsAgainst": 11,
-      "position": 7,
+      "goalsAgainst": 13,
+      "position": 8,
       "sourceId": "114"
     },
     {
@@ -84,18 +94,8 @@
       "played": 10,
       "goalsFor": 14,
       "goalsAgainst": 13,
-      "position": 8,
-      "sourceId": "107"
-    },
-    {
-      "id": 2032542557,
-      "name": "Juventus",
-      "points": 14,
-      "played": 9,
-      "goalsFor": 11,
-      "goalsAgainst": 10,
       "position": 9,
-      "sourceId": "111"
+      "sourceId": "107"
     },
     {
       "id": 4280391182,
@@ -108,13 +108,23 @@
       "sourceId": "239"
     },
     {
+      "id": 3939292337,
+      "name": "Genoa",
+      "points": 13,
+      "played": 10,
+      "goalsFor": 10,
+      "goalsAgainst": 14,
+      "position": 11,
+      "sourceId": "3263"
+    },
+    {
       "id": 3980540039,
       "name": "Cagliari",
       "points": 13,
       "played": 10,
       "goalsFor": 9,
       "goalsAgainst": 15,
-      "position": 11,
+      "position": 12,
       "sourceId": "2925"
     },
     {
@@ -124,26 +134,16 @@
       "played": 9,
       "goalsFor": 16,
       "goalsAgainst": 17,
-      "position": 12,
-      "sourceId": "105"
-    },
-    {
-      "id": 3939292337,
-      "name": "Genoa",
-      "points": 10,
-      "played": 9,
-      "goalsFor": 8,
-      "goalsAgainst": 13,
       "position": 13,
-      "sourceId": "3263"
+      "sourceId": "105"
     },
     {
       "id": 1063453040,
       "name": "Lecce",
       "points": 9,
-      "played": 9,
-      "goalsFor": 10,
-      "goalsAgainst": 19,
+      "played": 10,
+      "goalsFor": 11,
+      "goalsAgainst": 21,
       "position": 14,
       "sourceId": "113"
     },
