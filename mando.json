@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-02T10:52:28.642388+00:00",
+  "fetchedAt": "2026-11-02T20:43:04.908886+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -314,16 +314,38 @@
       }
     },
     {
+      "id": 882974108,
+      "name": "Fiorentina",
+      "home": {
+        "played": 5,
+        "points": 2,
+        "wins": 0,
+        "draws": 2,
+        "losses": 3,
+        "goalsFor": 5,
+        "goalsAgainst": 11
+      },
+      "away": {
+        "played": 5,
+        "points": 6,
+        "wins": 2,
+        "draws": 0,
+        "losses": 3,
+        "goalsFor": 10,
+        "goalsAgainst": 12
+      }
+    },
+    {
       "id": 611870388,
       "name": "Sassuolo",
       "home": {
-        "played": 4,
+        "played": 5,
         "points": 7,
         "wins": 2,
         "draws": 1,
-        "losses": 1,
-        "goalsFor": 8,
-        "goalsAgainst": 10
+        "losses": 2,
+        "goalsFor": 10,
+        "goalsAgainst": 14
       },
       "away": {
         "played": 5,
@@ -355,28 +377,6 @@
         "losses": 5,
         "goalsFor": 8,
         "goalsAgainst": 16
-      }
-    },
-    {
-      "id": 882974108,
-      "name": "Fiorentina",
-      "home": {
-        "played": 5,
-        "points": 2,
-        "wins": 0,
-        "draws": 2,
-        "losses": 3,
-        "goalsFor": 5,
-        "goalsAgainst": 11
-      },
-      "away": {
-        "played": 4,
-        "points": 3,
-        "wins": 1,
-        "draws": 0,
-        "losses": 3,
-        "goalsFor": 6,
-        "goalsAgainst": 10
       }
     },
     {
