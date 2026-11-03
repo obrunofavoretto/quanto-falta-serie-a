@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-02T20:43:04.908886+00:00",
+  "fetchedAt": "2026-11-03T02:51:35.545160+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -131,9 +131,9 @@
       "id": 2503137536,
       "name": "Atalanta",
       "points": 11,
-      "played": 9,
+      "played": 10,
       "goalsFor": 16,
-      "goalsAgainst": 17,
+      "goalsAgainst": 20,
       "position": 13,
       "sourceId": "105"
     },
@@ -148,13 +148,23 @@
       "sourceId": "113"
     },
     {
+      "id": 3463794015,
+      "name": "Parma",
+      "points": 8,
+      "played": 10,
+      "goalsFor": 8,
+      "goalsAgainst": 15,
+      "position": 15,
+      "sourceId": "115"
+    },
+    {
       "id": 882974108,
       "name": "Fiorentina",
       "points": 8,
       "played": 10,
       "goalsFor": 15,
       "goalsAgainst": 23,
-      "position": 15,
+      "position": 16,
       "sourceId": "109"
     },
     {
@@ -164,7 +174,7 @@
       "played": 10,
       "goalsFor": 16,
       "goalsAgainst": 26,
-      "position": 16,
+      "position": 17,
       "sourceId": "3997"
     },
     {
@@ -174,18 +184,8 @@
       "played": 10,
       "goalsFor": 17,
       "goalsAgainst": 24,
-      "position": 17,
-      "sourceId": "4007"
-    },
-    {
-      "id": 3463794015,
-      "name": "Parma",
-      "points": 5,
-      "played": 9,
-      "goalsFor": 5,
-      "goalsAgainst": 15,
       "position": 18,
-      "sourceId": "115"
+      "sourceId": "4007"
     },
     {
       "id": 3350935335,

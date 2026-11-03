@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-02T20:43:04.908886+00:00",
+  "fetchedAt": "2026-11-03T02:51:35.545160+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ita.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -92,12 +92,18 @@
       "id": 2503137536,
       "name": "Atalanta",
       "sourceId": "105",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 1063453040,
       "name": "Lecce",
       "sourceId": "113",
+      "completed": 10
+    },
+    {
+      "id": 3463794015,
+      "name": "Parma",
+      "sourceId": "115",
       "completed": 10
     },
     {
@@ -117,12 +123,6 @@
       "name": "Monza",
       "sourceId": "4007",
       "completed": 10
-    },
-    {
-      "id": 3463794015,
-      "name": "Parma",
-      "sourceId": "115",
-      "completed": 9
     },
     {
       "id": 3350935335,
@@ -2898,8 +2898,35 @@
       ],
       "firstScorer": 611870388,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874971",
+      "date": "2026-11-02T19:45Z",
+      "home": 2503137536,
+      "away": 3463794015,
+      "hg": 0,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 3463794015,
+          "minute": "41",
+          "bin": 2
+        },
+        {
+          "team": 3463794015,
+          "minute": "47",
+          "bin": 4
+        },
+        {
+          "team": 3463794015,
+          "minute": "58",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 3463794015,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 99,
+  "completedMatches": 100,
   "excluded": []
 }
