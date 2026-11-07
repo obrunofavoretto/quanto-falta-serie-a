@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-07T13:52:31.825556+00:00",
+  "fetchedAt": "2026-11-07T18:38:22.612125+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -61,9 +61,9 @@
       "id": 3551984340,
       "name": "Frosinone",
       "points": 20,
-      "played": 10,
+      "played": 11,
       "goalsFor": 24,
-      "goalsAgainst": 14,
+      "goalsAgainst": 15,
       "position": 6,
       "sourceId": "4057"
     },
@@ -78,13 +78,23 @@
       "sourceId": "111"
     },
     {
+      "id": 3980540039,
+      "name": "Cagliari",
+      "points": 16,
+      "played": 11,
+      "goalsFor": 10,
+      "goalsAgainst": 15,
+      "position": 8,
+      "sourceId": "2925"
+    },
+    {
       "id": 3429601513,
       "name": "Napoli",
       "points": 14,
       "played": 10,
       "goalsFor": 17,
       "goalsAgainst": 13,
-      "position": 8,
+      "position": 9,
       "sourceId": "114"
     },
     {
@@ -94,17 +104,17 @@
       "played": 10,
       "goalsFor": 14,
       "goalsAgainst": 13,
-      "position": 9,
+      "position": 10,
       "sourceId": "107"
     },
     {
       "id": 4280391182,
       "name": "Torino",
-      "points": 13,
-      "played": 10,
-      "goalsFor": 14,
-      "goalsAgainst": 16,
-      "position": 10,
+      "points": 14,
+      "played": 11,
+      "goalsFor": 15,
+      "goalsAgainst": 17,
+      "position": 11,
       "sourceId": "239"
     },
     {
@@ -114,18 +124,8 @@
       "played": 10,
       "goalsFor": 10,
       "goalsAgainst": 14,
-      "position": 11,
-      "sourceId": "3263"
-    },
-    {
-      "id": 3980540039,
-      "name": "Cagliari",
-      "points": 13,
-      "played": 10,
-      "goalsFor": 9,
-      "goalsAgainst": 15,
       "position": 12,
-      "sourceId": "2925"
+      "sourceId": "3263"
     },
     {
       "id": 2503137536,
@@ -140,10 +140,10 @@
     {
       "id": 1063453040,
       "name": "Lecce",
-      "points": 9,
-      "played": 10,
-      "goalsFor": 11,
-      "goalsAgainst": 21,
+      "points": 10,
+      "played": 11,
+      "goalsFor": 12,
+      "goalsAgainst": 22,
       "position": 14,
       "sourceId": "113"
     },
