@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-07T18:38:22.612125+00:00",
+  "fetchedAt": "2026-11-07T22:38:40.417664+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -18,24 +18,24 @@
       "sourceId": "112"
     },
     {
+      "id": 2267057376,
+      "name": "Roma",
+      "points": 27,
+      "played": 11,
+      "goalsFor": 31,
+      "goalsAgainst": 10,
+      "position": 2,
+      "sourceId": "104"
+    },
+    {
       "id": 3417040367,
       "name": "Inter Milan",
       "points": 25,
       "played": 10,
       "goalsFor": 26,
       "goalsAgainst": 13,
-      "position": 2,
-      "sourceId": "110"
-    },
-    {
-      "id": 2267057376,
-      "name": "Roma",
-      "points": 24,
-      "played": 10,
-      "goalsFor": 28,
-      "goalsAgainst": 10,
       "position": 3,
-      "sourceId": "104"
+      "sourceId": "110"
     },
     {
       "id": 2777383916,
@@ -78,13 +78,23 @@
       "sourceId": "111"
     },
     {
+      "id": 663567942,
+      "name": "Bologna",
+      "points": 17,
+      "played": 11,
+      "goalsFor": 16,
+      "goalsAgainst": 14,
+      "position": 8,
+      "sourceId": "107"
+    },
+    {
       "id": 3980540039,
       "name": "Cagliari",
       "points": 16,
       "played": 11,
       "goalsFor": 10,
       "goalsAgainst": 15,
-      "position": 8,
+      "position": 9,
       "sourceId": "2925"
     },
     {
@@ -94,18 +104,8 @@
       "played": 10,
       "goalsFor": 17,
       "goalsAgainst": 13,
-      "position": 9,
-      "sourceId": "114"
-    },
-    {
-      "id": 663567942,
-      "name": "Bologna",
-      "points": 14,
-      "played": 10,
-      "goalsFor": 14,
-      "goalsAgainst": 13,
       "position": 10,
-      "sourceId": "107"
+      "sourceId": "114"
     },
     {
       "id": 4280391182,
@@ -148,32 +148,32 @@
       "sourceId": "113"
     },
     {
-      "id": 3463794015,
-      "name": "Parma",
-      "points": 8,
-      "played": 10,
-      "goalsFor": 8,
-      "goalsAgainst": 15,
-      "position": 15,
-      "sourceId": "115"
-    },
-    {
       "id": 882974108,
       "name": "Fiorentina",
       "points": 8,
       "played": 10,
       "goalsFor": 15,
       "goalsAgainst": 23,
-      "position": 16,
+      "position": 15,
       "sourceId": "109"
+    },
+    {
+      "id": 3463794015,
+      "name": "Parma",
+      "points": 8,
+      "played": 11,
+      "goalsFor": 9,
+      "goalsAgainst": 17,
+      "position": 16,
+      "sourceId": "115"
     },
     {
       "id": 611870388,
       "name": "Sassuolo",
       "points": 8,
-      "played": 10,
+      "played": 11,
       "goalsFor": 16,
-      "goalsAgainst": 26,
+      "goalsAgainst": 29,
       "position": 17,
       "sourceId": "3997"
     },
