@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-06T20:49:11.254564+00:00",
+  "fetchedAt": "2026-11-07T00:50:15.995853+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -188,24 +188,24 @@
       "sourceId": "4007"
     },
     {
+      "id": 3465326976,
+      "name": "Venezia",
+      "points": 6,
+      "played": 11,
+      "goalsFor": 8,
+      "goalsAgainst": 21,
+      "position": 19,
+      "sourceId": "17530"
+    },
+    {
       "id": 3350935335,
       "name": "Udinese",
       "points": 5,
-      "played": 10,
-      "goalsFor": 11,
-      "goalsAgainst": 23,
-      "position": 19,
-      "sourceId": "118"
-    },
-    {
-      "id": 3465326976,
-      "name": "Venezia",
-      "points": 3,
-      "played": 10,
-      "goalsFor": 6,
-      "goalsAgainst": 20,
+      "played": 11,
+      "goalsFor": 12,
+      "goalsAgainst": 25,
       "position": 20,
-      "sourceId": "17530"
+      "sourceId": "118"
     }
   ]
 }
