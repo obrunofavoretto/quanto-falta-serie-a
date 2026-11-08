@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-08T16:59:35.684189+00:00",
+  "fetchedAt": "2026-11-08T21:02:07.698445+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -28,6 +28,28 @@
       }
     },
     {
+      "id": 3417040367,
+      "name": "Inter Milan",
+      "home": {
+        "played": 6,
+        "points": 18,
+        "wins": 6,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 19,
+        "goalsAgainst": 7
+      },
+      "away": {
+        "played": 5,
+        "points": 10,
+        "wins": 3,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 9,
+        "goalsAgainst": 6
+      }
+    },
+    {
       "id": 2267057376,
       "name": "Roma",
       "home": {
@@ -47,28 +69,6 @@
         "losses": 0,
         "goalsFor": 14,
         "goalsAgainst": 5
-      }
-    },
-    {
-      "id": 3417040367,
-      "name": "Inter Milan",
-      "home": {
-        "played": 5,
-        "points": 15,
-        "wins": 5,
-        "draws": 0,
-        "losses": 0,
-        "goalsFor": 17,
-        "goalsAgainst": 7
-      },
-      "away": {
-        "played": 5,
-        "points": 10,
-        "wins": 3,
-        "draws": 1,
-        "losses": 1,
-        "goalsFor": 9,
-        "goalsAgainst": 6
       }
     },
     {
@@ -106,13 +106,13 @@
         "goalsAgainst": 1
       },
       "away": {
-        "played": 6,
+        "played": 7,
         "points": 13,
         "wins": 4,
         "draws": 1,
-        "losses": 1,
+        "losses": 2,
         "goalsFor": 13,
-        "goalsAgainst": 7
+        "goalsAgainst": 9
       }
     },
     {

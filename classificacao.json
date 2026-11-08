@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-08T16:59:35.684189+00:00",
+  "fetchedAt": "2026-11-08T21:02:07.698445+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -18,24 +18,24 @@
       "sourceId": "112"
     },
     {
+      "id": 3417040367,
+      "name": "Inter Milan",
+      "points": 28,
+      "played": 11,
+      "goalsFor": 28,
+      "goalsAgainst": 13,
+      "position": 2,
+      "sourceId": "110"
+    },
+    {
       "id": 2267057376,
       "name": "Roma",
       "points": 27,
       "played": 11,
       "goalsFor": 31,
       "goalsAgainst": 10,
-      "position": 2,
-      "sourceId": "104"
-    },
-    {
-      "id": 3417040367,
-      "name": "Inter Milan",
-      "points": 25,
-      "played": 10,
-      "goalsFor": 26,
-      "goalsAgainst": 13,
       "position": 3,
-      "sourceId": "110"
+      "sourceId": "104"
     },
     {
       "id": 2034419792,
@@ -51,9 +51,9 @@
       "id": 2777383916,
       "name": "Como",
       "points": 23,
-      "played": 10,
+      "played": 11,
       "goalsFor": 18,
-      "goalsAgainst": 8,
+      "goalsAgainst": 10,
       "position": 5,
       "sourceId": "2572"
     },
