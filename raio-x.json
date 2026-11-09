@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-08T21:02:07.698445+00:00",
+  "fetchedAt": "2026-11-09T00:44:51.104866+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -873,12 +873,25 @@
     {
       "id": 2032542557,
       "name": "Juventus",
-      "points": 17,
-      "played": 10,
-      "goalsFor": 13,
-      "goalsAgainst": 10,
+      "points": 18,
+      "played": 11,
+      "goalsFor": 15,
+      "goalsAgainst": 12,
       "position": 7,
       "recent": [
+        {
+          "id": "401875003",
+          "date": 1794167100000,
+          "home": "Fiorentina",
+          "away": "Juventus",
+          "hg": 2,
+          "ag": 2,
+          "points": 1,
+          "opponent": "Fiorentina",
+          "venue": "Fora",
+          "score": "2–2",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401874949",
           "date": 1793562300000,
@@ -995,23 +1008,10 @@
           "venue": "Casa",
           "score": "2–0",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874930",
-          "date": 1787502600000,
-          "home": "Frosinone",
-          "away": "Juventus",
-          "hg": 0,
-          "ag": 1,
-          "points": 3,
-          "opponent": "Frosinone",
-          "venue": "Fora",
-          "score": "1–0",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401874949",
-      "lastMatchDate": 1793562300000,
+      "lastMatchId": "401875003",
+      "lastMatchDate": 1794167100000,
       "sourceId": "111"
     },
     {
@@ -2025,12 +2025,25 @@
     {
       "id": 882974108,
       "name": "Fiorentina",
-      "points": 8,
-      "played": 10,
-      "goalsFor": 15,
-      "goalsAgainst": 23,
+      "points": 9,
+      "played": 11,
+      "goalsFor": 17,
+      "goalsAgainst": 25,
       "position": 15,
       "recent": [
+        {
+          "id": "401875003",
+          "date": 1794167100000,
+          "home": "Fiorentina",
+          "away": "Juventus",
+          "hg": 2,
+          "ag": 2,
+          "points": 1,
+          "opponent": "Juventus",
+          "venue": "Casa",
+          "score": "2–2",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401874963",
           "date": 1793640600000,
@@ -2147,23 +2160,10 @@
           "venue": "Casa",
           "score": "0–3",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874928",
-          "date": 1787597100000,
-          "home": "Roma",
-          "away": "Fiorentina",
-          "hg": 4,
-          "ag": 0,
-          "points": 0,
-          "opponent": "Roma",
-          "venue": "Fora",
-          "score": "0–4",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401874963",
-      "lastMatchDate": 1793640600000,
+      "lastMatchId": "401875003",
+      "lastMatchDate": 1794167100000,
       "sourceId": "109"
     },
     {
@@ -4436,14 +4436,6 @@
       "id": "882974108-2034419792",
       "home": 882974108,
       "away": 2034419792,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "882974108-2032542557",
-      "home": 882974108,
-      "away": 2032542557,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"

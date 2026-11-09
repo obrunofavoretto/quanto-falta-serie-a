@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-08T21:02:07.698445+00:00",
+  "fetchedAt": "2026-11-09T00:44:51.104866+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -150,13 +150,13 @@
         "goalsAgainst": 4
       },
       "away": {
-        "played": 5,
-        "points": 7,
+        "played": 6,
+        "points": 8,
         "wins": 2,
-        "draws": 1,
+        "draws": 2,
         "losses": 2,
-        "goalsFor": 6,
-        "goalsAgainst": 6
+        "goalsFor": 8,
+        "goalsAgainst": 8
       }
     },
     {
@@ -317,13 +317,13 @@
       "id": 882974108,
       "name": "Fiorentina",
       "home": {
-        "played": 5,
-        "points": 2,
+        "played": 6,
+        "points": 3,
         "wins": 0,
-        "draws": 2,
+        "draws": 3,
         "losses": 3,
-        "goalsFor": 5,
-        "goalsAgainst": 11
+        "goalsFor": 7,
+        "goalsAgainst": 13
       },
       "away": {
         "played": 5,

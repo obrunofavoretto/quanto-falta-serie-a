@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-08T21:02:07.698445+00:00",
+  "fetchedAt": "2026-11-09T00:44:51.104866+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ita.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -56,7 +56,7 @@
       "id": 2032542557,
       "name": "Juventus",
       "sourceId": "111",
-      "completed": 10
+      "completed": 11
     },
     {
       "id": 663567942,
@@ -104,7 +104,7 @@
       "id": 882974108,
       "name": "Fiorentina",
       "sourceId": "109",
-      "completed": 10
+      "completed": 11
     },
     {
       "id": 3463794015,
@@ -3133,8 +3133,40 @@
       ],
       "firstScorer": 3417040367,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401875003",
+      "date": "2026-11-08T19:45Z",
+      "home": 882974108,
+      "away": 2032542557,
+      "hg": 2,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 882974108,
+          "minute": "4",
+          "bin": 0
+        },
+        {
+          "team": 2032542557,
+          "minute": "32",
+          "bin": 2
+        },
+        {
+          "team": 882974108,
+          "minute": "54",
+          "bin": 4
+        },
+        {
+          "team": 2032542557,
+          "minute": "66",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 882974108,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 109,
+  "completedMatches": 110,
   "excluded": []
 }
