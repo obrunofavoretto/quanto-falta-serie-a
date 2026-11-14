@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-13T22:28:40.314664+00:00",
+  "fetchedAt": "2026-11-14T03:02:03.646238+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ita.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -56,7 +56,7 @@
       "id": 2032542557,
       "name": "Juventus",
       "sourceId": "111",
-      "completed": 11
+      "completed": 12
     },
     {
       "id": 663567942,
@@ -101,6 +101,12 @@
       "completed": 11
     },
     {
+      "id": 3465326976,
+      "name": "Venezia",
+      "sourceId": "17530",
+      "completed": 12
+    },
+    {
       "id": 882974108,
       "name": "Fiorentina",
       "sourceId": "109",
@@ -122,12 +128,6 @@
       "id": 1713673705,
       "name": "Monza",
       "sourceId": "4007",
-      "completed": 11
-    },
-    {
-      "id": 3465326976,
-      "name": "Venezia",
-      "sourceId": "17530",
       "completed": 11
     },
     {
@@ -3167,6 +3167,6 @@
       "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 110,
+  "completedMatches": 111,
   "excluded": []
 }

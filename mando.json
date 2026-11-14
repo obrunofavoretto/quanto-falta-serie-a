@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-13T22:28:40.314664+00:00",
+  "fetchedAt": "2026-11-14T03:02:03.646238+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -141,13 +141,13 @@
       "id": 2032542557,
       "name": "Juventus",
       "home": {
-        "played": 5,
+        "played": 6,
         "points": 10,
         "wins": 3,
         "draws": 1,
-        "losses": 1,
+        "losses": 2,
         "goalsFor": 7,
-        "goalsAgainst": 4
+        "goalsAgainst": 14
       },
       "away": {
         "played": 6,
@@ -314,6 +314,28 @@
       }
     },
     {
+      "id": 3465326976,
+      "name": "Venezia",
+      "home": {
+        "played": 6,
+        "points": 6,
+        "wins": 2,
+        "draws": 0,
+        "losses": 4,
+        "goalsFor": 5,
+        "goalsAgainst": 11
+      },
+      "away": {
+        "played": 6,
+        "points": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 5,
+        "goalsFor": 13,
+        "goalsAgainst": 10
+      }
+    },
+    {
       "id": 882974108,
       "name": "Fiorentina",
       "home": {
@@ -399,28 +421,6 @@
         "losses": 5,
         "goalsFor": 8,
         "goalsAgainst": 16
-      }
-    },
-    {
-      "id": 3465326976,
-      "name": "Venezia",
-      "home": {
-        "played": 6,
-        "points": 6,
-        "wins": 2,
-        "draws": 0,
-        "losses": 4,
-        "goalsFor": 5,
-        "goalsAgainst": 11
-      },
-      "away": {
-        "played": 5,
-        "points": 0,
-        "wins": 0,
-        "draws": 0,
-        "losses": 5,
-        "goalsFor": 3,
-        "goalsAgainst": 10
       }
     },
     {
