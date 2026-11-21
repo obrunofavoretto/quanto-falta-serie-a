@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-21T01:20:22.537096+00:00",
+  "fetchedAt": "2026-11-21T09:34:40.089725+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -116,6 +116,28 @@
       }
     },
     {
+      "id": 2032542557,
+      "name": "Juventus",
+      "home": {
+        "played": 6,
+        "points": 13,
+        "wins": 4,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 17,
+        "goalsAgainst": 4
+      },
+      "away": {
+        "played": 6,
+        "points": 8,
+        "wins": 2,
+        "draws": 2,
+        "losses": 2,
+        "goalsFor": 8,
+        "goalsAgainst": 8
+      }
+    },
+    {
       "id": 3551984340,
       "name": "Frosinone",
       "home": {
@@ -135,28 +157,6 @@
         "losses": 2,
         "goalsFor": 8,
         "goalsAgainst": 9
-      }
-    },
-    {
-      "id": 2032542557,
-      "name": "Juventus",
-      "home": {
-        "played": 5,
-        "points": 10,
-        "wins": 3,
-        "draws": 1,
-        "losses": 1,
-        "goalsFor": 7,
-        "goalsAgainst": 4
-      },
-      "away": {
-        "played": 6,
-        "points": 8,
-        "wins": 2,
-        "draws": 2,
-        "losses": 2,
-        "goalsFor": 8,
-        "goalsAgainst": 8
       }
     },
     {
@@ -414,13 +414,13 @@
         "goalsAgainst": 11
       },
       "away": {
-        "played": 5,
+        "played": 6,
         "points": 0,
         "wins": 0,
         "draws": 0,
-        "losses": 5,
+        "losses": 6,
         "goalsFor": 3,
-        "goalsAgainst": 10
+        "goalsAgainst": 20
       }
     },
     {

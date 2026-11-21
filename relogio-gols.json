@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-21T01:20:22.537096+00:00",
+  "fetchedAt": "2026-11-21T09:34:40.089725+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ita.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -47,15 +47,15 @@
       "completed": 11
     },
     {
-      "id": 3551984340,
-      "name": "Frosinone",
-      "sourceId": "4057",
-      "completed": 11
-    },
-    {
       "id": 2032542557,
       "name": "Juventus",
       "sourceId": "111",
+      "completed": 12
+    },
+    {
+      "id": 3551984340,
+      "name": "Frosinone",
+      "sourceId": "4057",
       "completed": 11
     },
     {
@@ -128,7 +128,7 @@
       "id": 3465326976,
       "name": "Venezia",
       "sourceId": "17530",
-      "completed": 11
+      "completed": 12
     },
     {
       "id": 3350935335,
@@ -3167,6 +3167,6 @@
       "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 110,
+  "completedMatches": 111,
   "excluded": []
 }
