@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-21T09:34:40.089725+00:00",
+  "fetchedAt": "2026-11-21T17:19:19.479681+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -10,9 +10,9 @@
     {
       "id": 2141390539,
       "name": "Lazio",
-      "points": 29,
-      "played": 11,
-      "goalsFor": 25,
+      "points": 32,
+      "played": 12,
+      "goalsFor": 28,
       "goalsAgainst": 9,
       "position": 1,
       "sourceId": "112"
@@ -38,24 +38,24 @@
       "sourceId": "104"
     },
     {
+      "id": 2777383916,
+      "name": "Como",
+      "points": 26,
+      "played": 12,
+      "goalsFor": 20,
+      "goalsAgainst": 10,
+      "position": 4,
+      "sourceId": "2572"
+    },
+    {
       "id": 2034419792,
       "name": "AC Milan",
       "points": 24,
       "played": 11,
       "goalsFor": 23,
       "goalsAgainst": 13,
-      "position": 4,
-      "sourceId": "103"
-    },
-    {
-      "id": 2777383916,
-      "name": "Como",
-      "points": 23,
-      "played": 11,
-      "goalsFor": 18,
-      "goalsAgainst": 10,
       "position": 5,
-      "sourceId": "2572"
+      "sourceId": "103"
     },
     {
       "id": 2032542557,
@@ -91,9 +91,9 @@
       "id": 3980540039,
       "name": "Cagliari",
       "points": 16,
-      "played": 11,
+      "played": 12,
       "goalsFor": 10,
-      "goalsAgainst": 15,
+      "goalsAgainst": 17,
       "position": 9,
       "sourceId": "2925"
     },
@@ -141,9 +141,9 @@
       "id": 1063453040,
       "name": "Lecce",
       "points": 10,
-      "played": 11,
+      "played": 12,
       "goalsFor": 12,
-      "goalsAgainst": 22,
+      "goalsAgainst": 25,
       "position": 14,
       "sourceId": "113"
     },
