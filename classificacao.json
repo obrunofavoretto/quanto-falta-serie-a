@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-21T17:19:19.479681+00:00",
+  "fetchedAt": "2026-11-21T23:01:14.440063+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -18,24 +18,24 @@
       "sourceId": "112"
     },
     {
+      "id": 2267057376,
+      "name": "Roma",
+      "points": 30,
+      "played": 12,
+      "goalsFor": 36,
+      "goalsAgainst": 11,
+      "position": 2,
+      "sourceId": "104"
+    },
+    {
       "id": 3417040367,
       "name": "Inter Milan",
       "points": 28,
       "played": 11,
       "goalsFor": 28,
       "goalsAgainst": 13,
-      "position": 2,
-      "sourceId": "110"
-    },
-    {
-      "id": 2267057376,
-      "name": "Roma",
-      "points": 27,
-      "played": 11,
-      "goalsFor": 31,
-      "goalsAgainst": 10,
       "position": 3,
-      "sourceId": "104"
+      "sourceId": "110"
     },
     {
       "id": 2777383916,
@@ -78,13 +78,23 @@
       "sourceId": "4057"
     },
     {
+      "id": 3429601513,
+      "name": "Napoli",
+      "points": 18,
+      "played": 12,
+      "goalsFor": 19,
+      "goalsAgainst": 14,
+      "position": 8,
+      "sourceId": "114"
+    },
+    {
       "id": 663567942,
       "name": "Bologna",
       "points": 17,
       "played": 11,
       "goalsFor": 16,
       "goalsAgainst": 14,
-      "position": 8,
+      "position": 9,
       "sourceId": "107"
     },
     {
@@ -94,28 +104,8 @@
       "played": 12,
       "goalsFor": 10,
       "goalsAgainst": 17,
-      "position": 9,
-      "sourceId": "2925"
-    },
-    {
-      "id": 3429601513,
-      "name": "Napoli",
-      "points": 15,
-      "played": 11,
-      "goalsFor": 18,
-      "goalsAgainst": 14,
       "position": 10,
-      "sourceId": "114"
-    },
-    {
-      "id": 4280391182,
-      "name": "Torino",
-      "points": 14,
-      "played": 11,
-      "goalsFor": 15,
-      "goalsAgainst": 17,
-      "position": 11,
-      "sourceId": "239"
+      "sourceId": "2925"
     },
     {
       "id": 2503137536,
@@ -124,8 +114,18 @@
       "played": 11,
       "goalsFor": 17,
       "goalsAgainst": 20,
-      "position": 12,
+      "position": 11,
       "sourceId": "105"
+    },
+    {
+      "id": 4280391182,
+      "name": "Torino",
+      "points": 14,
+      "played": 12,
+      "goalsFor": 15,
+      "goalsAgainst": 18,
+      "position": 12,
+      "sourceId": "239"
     },
     {
       "id": 3939292337,
@@ -161,9 +161,9 @@
       "id": 3463794015,
       "name": "Parma",
       "points": 8,
-      "played": 11,
-      "goalsFor": 9,
-      "goalsAgainst": 17,
+      "played": 12,
+      "goalsFor": 10,
+      "goalsAgainst": 22,
       "position": 16,
       "sourceId": "115"
     },
