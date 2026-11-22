@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-22T11:01:31.847843+00:00",
+  "fetchedAt": "2026-11-22T18:25:32.917793+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ita.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -47,6 +47,12 @@
       "completed": 11
     },
     {
+      "id": 2032542557,
+      "name": "Juventus",
+      "sourceId": "111",
+      "completed": 12
+    },
+    {
       "id": 3551984340,
       "name": "Frosinone",
       "sourceId": "4057",
@@ -59,16 +65,16 @@
       "completed": 12
     },
     {
-      "id": 2032542557,
-      "name": "Juventus",
-      "sourceId": "111",
-      "completed": 12
-    },
-    {
       "id": 663567942,
       "name": "Bologna",
       "sourceId": "107",
-      "completed": 11
+      "completed": 12
+    },
+    {
+      "id": 3939292337,
+      "name": "Genoa",
+      "sourceId": "3263",
+      "completed": 12
     },
     {
       "id": 3980540039,
@@ -89,21 +95,9 @@
       "completed": 12
     },
     {
-      "id": 3939292337,
-      "name": "Genoa",
-      "sourceId": "3263",
-      "completed": 11
-    },
-    {
       "id": 1063453040,
       "name": "Lecce",
       "sourceId": "113",
-      "completed": 12
-    },
-    {
-      "id": 3465326976,
-      "name": "Venezia",
-      "sourceId": "17530",
       "completed": 12
     },
     {
@@ -122,7 +116,7 @@
       "id": 611870388,
       "name": "Sassuolo",
       "sourceId": "3997",
-      "completed": 11
+      "completed": 12
     },
     {
       "id": 1713673705,
@@ -134,7 +128,13 @@
       "id": 3350935335,
       "name": "Udinese",
       "sourceId": "118",
-      "completed": 11
+      "completed": 12
+    },
+    {
+      "id": 3465326976,
+      "name": "Venezia",
+      "sourceId": "17530",
+      "completed": 12
     }
   ],
   "matches": [
@@ -3273,8 +3273,84 @@
       ],
       "firstScorer": 3429601513,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401875008",
+      "date": "2026-11-22T11:30Z",
+      "home": 2032542557,
+      "away": 3465326976,
+      "hg": 4,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2032542557,
+          "minute": "53",
+          "bin": 4
+        },
+        {
+          "team": 2032542557,
+          "minute": "59",
+          "bin": 4
+        },
+        {
+          "team": 2032542557,
+          "minute": "65",
+          "bin": 5
+        },
+        {
+          "team": 2032542557,
+          "minute": "71",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2032542557,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401874960",
+      "date": "2026-11-22T14:00Z",
+      "home": 611870388,
+      "away": 3939292337,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3939292337,
+          "minute": "26",
+          "bin": 1
+        },
+        {
+          "team": 3939292337,
+          "minute": "38",
+          "bin": 2
+        }
+      ],
+      "firstScorer": 3939292337,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401875047",
+      "date": "2026-11-22T14:00Z",
+      "home": 663567942,
+      "away": 3350935335,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 663567942,
+          "minute": "43",
+          "bin": 2
+        },
+        {
+          "team": 3350935335,
+          "minute": "67",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 663567942,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 115,
+  "completedMatches": 117,
   "excluded": []
 }
