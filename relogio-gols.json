@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-22T02:58:28.069580+00:00",
+  "fetchedAt": "2026-11-22T11:01:31.847843+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ita.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -47,12 +47,6 @@
       "completed": 11
     },
     {
-      "id": 2032542557,
-      "name": "Juventus",
-      "sourceId": "111",
-      "completed": 12
-    },
-    {
       "id": 3551984340,
       "name": "Frosinone",
       "sourceId": "4057",
@@ -62,6 +56,12 @@
       "id": 3429601513,
       "name": "Napoli",
       "sourceId": "114",
+      "completed": 12
+    },
+    {
+      "id": 2032542557,
+      "name": "Juventus",
+      "sourceId": "111",
       "completed": 12
     },
     {
@@ -101,6 +101,12 @@
       "completed": 12
     },
     {
+      "id": 3465326976,
+      "name": "Venezia",
+      "sourceId": "17530",
+      "completed": 12
+    },
+    {
       "id": 882974108,
       "name": "Fiorentina",
       "sourceId": "109",
@@ -123,12 +129,6 @@
       "name": "Monza",
       "sourceId": "4007",
       "completed": 11
-    },
-    {
-      "id": 3465326976,
-      "name": "Venezia",
-      "sourceId": "17530",
-      "completed": 12
     },
     {
       "id": 3350935335,

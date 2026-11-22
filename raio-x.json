@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-22T02:58:28.069580+00:00",
+  "fetchedAt": "2026-11-22T11:01:31.847843+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -727,157 +727,13 @@
       "sourceId": "103"
     },
     {
-      "id": 2032542557,
-      "name": "Juventus",
-      "points": 21,
-      "played": 12,
-      "goalsFor": 25,
-      "goalsAgainst": 12,
-      "position": 6,
-      "recent": [
-        {
-          "id": "401875003",
-          "date": 1794167100000,
-          "home": "Fiorentina",
-          "away": "Juventus",
-          "hg": 2,
-          "ag": 2,
-          "points": 1,
-          "opponent": "Fiorentina",
-          "venue": "Fora",
-          "score": "2–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874949",
-          "date": 1793562300000,
-          "home": "Juventus",
-          "away": "Napoli",
-          "hg": 2,
-          "ag": 0,
-          "points": 3,
-          "opponent": "Napoli",
-          "venue": "Casa",
-          "score": "2–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874988",
-          "date": 1793216700000,
-          "home": "Genoa",
-          "away": "Juventus",
-          "hg": 2,
-          "ag": 0,
-          "points": 0,
-          "opponent": "Genoa",
-          "venue": "Fora",
-          "score": "0–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874772",
-          "date": 1792947600000,
-          "home": "Lecce",
-          "away": "Juventus",
-          "hg": 0,
-          "ag": 2,
-          "points": 3,
-          "opponent": "Lecce",
-          "venue": "Fora",
-          "score": "2–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874765",
-          "date": 1792349100000,
-          "home": "Juventus",
-          "away": "Lazio",
-          "hg": 0,
-          "ag": 3,
-          "points": 0,
-          "opponent": "Lazio",
-          "venue": "Casa",
-          "score": "0–3",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874764",
-          "date": 1791744300000,
-          "home": "Cagliari",
-          "away": "Juventus",
-          "hg": 1,
-          "ag": 1,
-          "points": 1,
-          "opponent": "Cagliari",
-          "venue": "Fora",
-          "score": "1–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874757",
-          "date": 1789920000000,
-          "home": "Juventus",
-          "away": "Atalanta",
-          "hg": 2,
-          "ag": 0,
-          "points": 3,
-          "opponent": "Atalanta",
-          "venue": "Casa",
-          "score": "2–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874750",
-          "date": 1789325100000,
-          "home": "Sassuolo",
-          "away": "Juventus",
-          "hg": 3,
-          "ag": 2,
-          "points": 0,
-          "opponent": "Sassuolo",
-          "venue": "Fora",
-          "score": "2–3",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874954",
-          "date": 1788720300000,
-          "home": "Juventus",
-          "away": "AC Milan",
-          "hg": 1,
-          "ag": 1,
-          "points": 1,
-          "opponent": "AC Milan",
-          "venue": "Casa",
-          "score": "1–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874746",
-          "date": 1788029100000,
-          "home": "Juventus",
-          "away": "Parma",
-          "hg": 2,
-          "ag": 0,
-          "points": 3,
-          "opponent": "Parma",
-          "venue": "Casa",
-          "score": "2–0",
-          "round": "Rodada a confirmar"
-        }
-      ],
-      "lastMatchId": "401875003",
-      "lastMatchDate": 1794167100000,
-      "sourceId": "111"
-    },
-    {
       "id": 3551984340,
       "name": "Frosinone",
       "points": 20,
       "played": 11,
       "goalsFor": 24,
       "goalsAgainst": 15,
-      "position": 7,
+      "position": 6,
       "recent": [
         {
           "id": "401874791",
@@ -1021,7 +877,7 @@
       "played": 12,
       "goalsFor": 19,
       "goalsAgainst": 14,
-      "position": 8,
+      "position": 7,
       "recent": [
         {
           "id": "401875067",
@@ -1157,6 +1013,150 @@
       "lastMatchId": "401875067",
       "lastMatchDate": 1795290300000,
       "sourceId": "114"
+    },
+    {
+      "id": 2032542557,
+      "name": "Juventus",
+      "points": 18,
+      "played": 12,
+      "goalsFor": 15,
+      "goalsAgainst": 22,
+      "position": 8,
+      "recent": [
+        {
+          "id": "401875003",
+          "date": 1794167100000,
+          "home": "Fiorentina",
+          "away": "Juventus",
+          "hg": 2,
+          "ag": 2,
+          "points": 1,
+          "opponent": "Fiorentina",
+          "venue": "Fora",
+          "score": "2–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874949",
+          "date": 1793562300000,
+          "home": "Juventus",
+          "away": "Napoli",
+          "hg": 2,
+          "ag": 0,
+          "points": 3,
+          "opponent": "Napoli",
+          "venue": "Casa",
+          "score": "2–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874988",
+          "date": 1793216700000,
+          "home": "Genoa",
+          "away": "Juventus",
+          "hg": 2,
+          "ag": 0,
+          "points": 0,
+          "opponent": "Genoa",
+          "venue": "Fora",
+          "score": "0–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874772",
+          "date": 1792947600000,
+          "home": "Lecce",
+          "away": "Juventus",
+          "hg": 0,
+          "ag": 2,
+          "points": 3,
+          "opponent": "Lecce",
+          "venue": "Fora",
+          "score": "2–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874765",
+          "date": 1792349100000,
+          "home": "Juventus",
+          "away": "Lazio",
+          "hg": 0,
+          "ag": 3,
+          "points": 0,
+          "opponent": "Lazio",
+          "venue": "Casa",
+          "score": "0–3",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874764",
+          "date": 1791744300000,
+          "home": "Cagliari",
+          "away": "Juventus",
+          "hg": 1,
+          "ag": 1,
+          "points": 1,
+          "opponent": "Cagliari",
+          "venue": "Fora",
+          "score": "1–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874757",
+          "date": 1789920000000,
+          "home": "Juventus",
+          "away": "Atalanta",
+          "hg": 2,
+          "ag": 0,
+          "points": 3,
+          "opponent": "Atalanta",
+          "venue": "Casa",
+          "score": "2–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874750",
+          "date": 1789325100000,
+          "home": "Sassuolo",
+          "away": "Juventus",
+          "hg": 3,
+          "ag": 2,
+          "points": 0,
+          "opponent": "Sassuolo",
+          "venue": "Fora",
+          "score": "2–3",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874954",
+          "date": 1788720300000,
+          "home": "Juventus",
+          "away": "AC Milan",
+          "hg": 1,
+          "ag": 1,
+          "points": 1,
+          "opponent": "AC Milan",
+          "venue": "Casa",
+          "score": "1–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874746",
+          "date": 1788029100000,
+          "home": "Juventus",
+          "away": "Parma",
+          "hg": 2,
+          "ag": 0,
+          "points": 3,
+          "opponent": "Parma",
+          "venue": "Casa",
+          "score": "2–0",
+          "round": "Rodada a confirmar"
+        }
+      ],
+      "lastMatchId": "401875003",
+      "lastMatchDate": 1794167100000,
+      "sourceId": "111"
     },
     {
       "id": 663567942,
@@ -2023,13 +2023,157 @@
       "sourceId": "113"
     },
     {
+      "id": 3465326976,
+      "name": "Venezia",
+      "points": 9,
+      "played": 12,
+      "goalsFor": 18,
+      "goalsAgainst": 21,
+      "position": 15,
+      "recent": [
+        {
+          "id": "401874815",
+          "date": 1793994300000,
+          "home": "Venezia",
+          "away": "Udinese",
+          "hg": 2,
+          "ag": 1,
+          "points": 3,
+          "opponent": "Udinese",
+          "venue": "Casa",
+          "score": "2–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401875002",
+          "date": 1793532600000,
+          "home": "Como",
+          "away": "Venezia",
+          "hg": 1,
+          "ag": 0,
+          "points": 0,
+          "opponent": "Como",
+          "venue": "Fora",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874773",
+          "date": 1793208600000,
+          "home": "Venezia",
+          "away": "Inter Milan",
+          "hg": 0,
+          "ag": 2,
+          "points": 0,
+          "opponent": "Inter Milan",
+          "venue": "Casa",
+          "score": "0–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874952",
+          "date": 1792936800000,
+          "home": "Genoa",
+          "away": "Venezia",
+          "hg": 1,
+          "ag": 0,
+          "points": 0,
+          "opponent": "Genoa",
+          "venue": "Fora",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874760",
+          "date": 1792242000000,
+          "home": "Venezia",
+          "away": "Napoli",
+          "hg": 1,
+          "ag": 0,
+          "points": 3,
+          "opponent": "Napoli",
+          "venue": "Casa",
+          "score": "1–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401875005",
+          "date": 1791822600000,
+          "home": "Atalanta",
+          "away": "Venezia",
+          "hg": 3,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Atalanta",
+          "venue": "Fora",
+          "score": "1–3",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874956",
+          "date": 1789843500000,
+          "home": "Venezia",
+          "away": "Lazio",
+          "hg": 0,
+          "ag": 2,
+          "points": 0,
+          "opponent": "Lazio",
+          "venue": "Casa",
+          "score": "0–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874759",
+          "date": 1789152300000,
+          "home": "Venezia",
+          "away": "Fiorentina",
+          "hg": 2,
+          "ag": 4,
+          "points": 0,
+          "opponent": "Fiorentina",
+          "venue": "Casa",
+          "score": "2–4",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874768",
+          "date": 1788699600000,
+          "home": "Frosinone",
+          "away": "Venezia",
+          "hg": 3,
+          "ag": 2,
+          "points": 0,
+          "opponent": "Frosinone",
+          "venue": "Fora",
+          "score": "2–3",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401874758",
+          "date": 1787942700000,
+          "home": "AC Milan",
+          "away": "Venezia",
+          "hg": 2,
+          "ag": 0,
+          "points": 0,
+          "opponent": "AC Milan",
+          "venue": "Fora",
+          "score": "0–2",
+          "round": "Rodada a confirmar"
+        }
+      ],
+      "lastMatchId": "401874815",
+      "lastMatchDate": 1793994300000,
+      "sourceId": "17530"
+    },
+    {
       "id": 882974108,
       "name": "Fiorentina",
       "points": 9,
       "played": 11,
       "goalsFor": 17,
       "goalsAgainst": 25,
-      "position": 15,
+      "position": 16,
       "recent": [
         {
           "id": "401875003",
@@ -2173,7 +2317,7 @@
       "played": 12,
       "goalsFor": 10,
       "goalsAgainst": 22,
-      "position": 16,
+      "position": 17,
       "recent": [
         {
           "id": "401874967",
@@ -2317,7 +2461,7 @@
       "played": 11,
       "goalsFor": 16,
       "goalsAgainst": 29,
-      "position": 17,
+      "position": 18,
       "recent": [
         {
           "id": "401874803",
@@ -2461,7 +2605,7 @@
       "played": 11,
       "goalsFor": 17,
       "goalsAgainst": 25,
-      "position": 18,
+      "position": 19,
       "recent": [
         {
           "id": "401874800",
@@ -2597,150 +2741,6 @@
       "lastMatchId": "401874800",
       "lastMatchDate": 1794146400000,
       "sourceId": "4007"
-    },
-    {
-      "id": 3465326976,
-      "name": "Venezia",
-      "points": 6,
-      "played": 12,
-      "goalsFor": 8,
-      "goalsAgainst": 31,
-      "position": 19,
-      "recent": [
-        {
-          "id": "401874815",
-          "date": 1793994300000,
-          "home": "Venezia",
-          "away": "Udinese",
-          "hg": 2,
-          "ag": 1,
-          "points": 3,
-          "opponent": "Udinese",
-          "venue": "Casa",
-          "score": "2–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401875002",
-          "date": 1793532600000,
-          "home": "Como",
-          "away": "Venezia",
-          "hg": 1,
-          "ag": 0,
-          "points": 0,
-          "opponent": "Como",
-          "venue": "Fora",
-          "score": "0–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874773",
-          "date": 1793208600000,
-          "home": "Venezia",
-          "away": "Inter Milan",
-          "hg": 0,
-          "ag": 2,
-          "points": 0,
-          "opponent": "Inter Milan",
-          "venue": "Casa",
-          "score": "0–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874952",
-          "date": 1792936800000,
-          "home": "Genoa",
-          "away": "Venezia",
-          "hg": 1,
-          "ag": 0,
-          "points": 0,
-          "opponent": "Genoa",
-          "venue": "Fora",
-          "score": "0–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874760",
-          "date": 1792242000000,
-          "home": "Venezia",
-          "away": "Napoli",
-          "hg": 1,
-          "ag": 0,
-          "points": 3,
-          "opponent": "Napoli",
-          "venue": "Casa",
-          "score": "1–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401875005",
-          "date": 1791822600000,
-          "home": "Atalanta",
-          "away": "Venezia",
-          "hg": 3,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Atalanta",
-          "venue": "Fora",
-          "score": "1–3",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874956",
-          "date": 1789843500000,
-          "home": "Venezia",
-          "away": "Lazio",
-          "hg": 0,
-          "ag": 2,
-          "points": 0,
-          "opponent": "Lazio",
-          "venue": "Casa",
-          "score": "0–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874759",
-          "date": 1789152300000,
-          "home": "Venezia",
-          "away": "Fiorentina",
-          "hg": 2,
-          "ag": 4,
-          "points": 0,
-          "opponent": "Fiorentina",
-          "venue": "Casa",
-          "score": "2–4",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874768",
-          "date": 1788699600000,
-          "home": "Frosinone",
-          "away": "Venezia",
-          "hg": 3,
-          "ag": 2,
-          "points": 0,
-          "opponent": "Frosinone",
-          "venue": "Fora",
-          "score": "2–3",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401874758",
-          "date": 1787942700000,
-          "home": "AC Milan",
-          "away": "Venezia",
-          "hg": 2,
-          "ag": 0,
-          "points": 0,
-          "opponent": "AC Milan",
-          "venue": "Fora",
-          "score": "0–2",
-          "round": "Rodada a confirmar"
-        }
-      ],
-      "lastMatchId": "401874815",
-      "lastMatchDate": 1793994300000,
-      "sourceId": "17530"
     },
     {
       "id": 3350935335,
@@ -2913,14 +2913,6 @@
       "status": "pending"
     },
     {
-      "id": "2141390539-2032542557",
-      "home": 2141390539,
-      "away": 2032542557,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
       "id": "2141390539-3551984340",
       "home": 2141390539,
       "away": 3551984340,
@@ -2932,6 +2924,14 @@
       "id": "2141390539-3429601513",
       "home": 2141390539,
       "away": 3429601513,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2141390539-2032542557",
+      "home": 2141390539,
+      "away": 2032542557,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -2961,6 +2961,14 @@
       "status": "pending"
     },
     {
+      "id": "2141390539-3465326976",
+      "home": 2141390539,
+      "away": 3465326976,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
       "id": "2141390539-882974108",
       "home": 2141390539,
       "away": 882974108,
@@ -2972,14 +2980,6 @@
       "id": "2141390539-611870388",
       "home": 2141390539,
       "away": 611870388,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "2141390539-3465326976",
-      "home": 2141390539,
-      "away": 3465326976,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -3017,14 +3017,6 @@
       "status": "pending"
     },
     {
-      "id": "2267057376-2032542557",
-      "home": 2267057376,
-      "away": 2032542557,
-      "date": 1797709500000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
-    },
-    {
       "id": "2267057376-3551984340",
       "home": 2267057376,
       "away": 3551984340,
@@ -3039,6 +3031,14 @@
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
+    },
+    {
+      "id": "2267057376-2032542557",
+      "home": 2267057376,
+      "away": 2032542557,
+      "date": 1797709500000,
+      "round": "Rodada a confirmar",
+      "status": "scheduled"
     },
     {
       "id": "2267057376-663567942",
@@ -3065,6 +3065,14 @@
       "status": "pending"
     },
     {
+      "id": "2267057376-3465326976",
+      "home": 2267057376,
+      "away": 3465326976,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
       "id": "2267057376-3463794015",
       "home": 2267057376,
       "away": 3463794015,
@@ -3079,14 +3087,6 @@
       "date": 1795971600000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
-    },
-    {
-      "id": "2267057376-3465326976",
-      "home": 2267057376,
-      "away": 3465326976,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
     },
     {
       "id": "2267057376-3350935335",
@@ -3121,17 +3121,17 @@
       "status": "pending"
     },
     {
-      "id": "3417040367-2032542557",
+      "id": "3417040367-3551984340",
       "home": 3417040367,
-      "away": 2032542557,
+      "away": 3551984340,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
     },
     {
-      "id": "3417040367-3551984340",
+      "id": "3417040367-2032542557",
       "home": 3417040367,
-      "away": 3551984340,
+      "away": 2032542557,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -3185,17 +3185,17 @@
       "status": "pending"
     },
     {
-      "id": "3417040367-611870388",
+      "id": "3417040367-3465326976",
       "home": 3417040367,
-      "away": 611870388,
+      "away": 3465326976,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
     },
     {
-      "id": "3417040367-3465326976",
+      "id": "3417040367-611870388",
       "home": 3417040367,
-      "away": 3465326976,
+      "away": 611870388,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -3225,14 +3225,6 @@
       "status": "pending"
     },
     {
-      "id": "2777383916-2032542557",
-      "home": 2777383916,
-      "away": 2032542557,
-      "date": 1795981500000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
-    },
-    {
       "id": "2777383916-3551984340",
       "home": 2777383916,
       "away": 3551984340,
@@ -3247,6 +3239,14 @@
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
+    },
+    {
+      "id": "2777383916-2032542557",
+      "home": 2777383916,
+      "away": 2032542557,
+      "date": 1795981500000,
+      "round": "Rodada a confirmar",
+      "status": "scheduled"
     },
     {
       "id": "2777383916-663567942",
@@ -3337,14 +3337,6 @@
       "status": "scheduled"
     },
     {
-      "id": "2034419792-2032542557",
-      "home": 2034419792,
-      "away": 2032542557,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
       "id": "2034419792-3551984340",
       "home": 2034419792,
       "away": 3551984340,
@@ -3356,6 +3348,14 @@
       "id": "2034419792-3429601513",
       "home": 2034419792,
       "away": 3429601513,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2034419792-2032542557",
+      "home": 2034419792,
+      "away": 2032542557,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -3423,110 +3423,6 @@
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
-    },
-    {
-      "id": "2032542557-2267057376",
-      "home": 2032542557,
-      "away": 2267057376,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "2032542557-3417040367",
-      "home": 2032542557,
-      "away": 3417040367,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "2032542557-2777383916",
-      "home": 2032542557,
-      "away": 2777383916,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "2032542557-3551984340",
-      "home": 2032542557,
-      "away": 3551984340,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "2032542557-663567942",
-      "home": 2032542557,
-      "away": 663567942,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "2032542557-3980540039",
-      "home": 2032542557,
-      "away": 3980540039,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "2032542557-4280391182",
-      "home": 2032542557,
-      "away": 4280391182,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "2032542557-3939292337",
-      "home": 2032542557,
-      "away": 3939292337,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "2032542557-1063453040",
-      "home": 2032542557,
-      "away": 1063453040,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "2032542557-882974108",
-      "home": 2032542557,
-      "away": 882974108,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "2032542557-611870388",
-      "home": 2032542557,
-      "away": 611870388,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "2032542557-1713673705",
-      "home": 2032542557,
-      "away": 1713673705,
-      "date": 1797277500000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
-    },
-    {
-      "id": "2032542557-3350935335",
-      "home": 2032542557,
-      "away": 3350935335,
-      "date": 1796576400000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
     },
     {
       "id": "3551984340-2141390539",
@@ -3689,6 +3585,14 @@
       "status": "scheduled"
     },
     {
+      "id": "3429601513-3465326976",
+      "home": 3429601513,
+      "away": 3465326976,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
       "id": "3429601513-882974108",
       "home": 3429601513,
       "away": 882974108,
@@ -3721,20 +3625,116 @@
       "status": "pending"
     },
     {
-      "id": "3429601513-3465326976",
-      "home": 3429601513,
-      "away": 3465326976,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
       "id": "3429601513-3350935335",
       "home": 3429601513,
       "away": 3350935335,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
+    },
+    {
+      "id": "2032542557-2267057376",
+      "home": 2032542557,
+      "away": 2267057376,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2032542557-3417040367",
+      "home": 2032542557,
+      "away": 3417040367,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2032542557-2777383916",
+      "home": 2032542557,
+      "away": 2777383916,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2032542557-3551984340",
+      "home": 2032542557,
+      "away": 3551984340,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2032542557-663567942",
+      "home": 2032542557,
+      "away": 663567942,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2032542557-3980540039",
+      "home": 2032542557,
+      "away": 3980540039,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2032542557-4280391182",
+      "home": 2032542557,
+      "away": 4280391182,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2032542557-3939292337",
+      "home": 2032542557,
+      "away": 3939292337,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2032542557-1063453040",
+      "home": 2032542557,
+      "away": 1063453040,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2032542557-882974108",
+      "home": 2032542557,
+      "away": 882974108,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2032542557-611870388",
+      "home": 2032542557,
+      "away": 611870388,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "2032542557-1713673705",
+      "home": 2032542557,
+      "away": 1713673705,
+      "date": 1797277500000,
+      "round": "Rodada a confirmar",
+      "status": "scheduled"
+    },
+    {
+      "id": "2032542557-3350935335",
+      "home": 2032542557,
+      "away": 3350935335,
+      "date": 1796576400000,
+      "round": "Rodada a confirmar",
+      "status": "scheduled"
     },
     {
       "id": "663567942-2267057376",
@@ -3761,14 +3761,6 @@
       "status": "pending"
     },
     {
-      "id": "663567942-2032542557",
-      "home": 663567942,
-      "away": 2032542557,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
       "id": "663567942-3551984340",
       "home": 663567942,
       "away": 3551984340,
@@ -3780,6 +3772,14 @@
       "id": "663567942-3429601513",
       "home": 663567942,
       "away": 3429601513,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "663567942-2032542557",
+      "home": 663567942,
+      "away": 2032542557,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -3817,6 +3817,14 @@
       "status": "pending"
     },
     {
+      "id": "663567942-3465326976",
+      "home": 663567942,
+      "away": 3465326976,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
       "id": "663567942-882974108",
       "home": 663567942,
       "away": 882974108,
@@ -3828,14 +3836,6 @@
       "id": "663567942-3463794015",
       "home": 663567942,
       "away": 3463794015,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "663567942-3465326976",
-      "home": 663567942,
-      "away": 3465326976,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -3913,6 +3913,14 @@
       "status": "pending"
     },
     {
+      "id": "3980540039-3465326976",
+      "home": 3980540039,
+      "away": 3465326976,
+      "date": 1797084000000,
+      "round": "Rodada a confirmar",
+      "status": "scheduled"
+    },
+    {
       "id": "3980540039-882974108",
       "home": 3980540039,
       "away": 882974108,
@@ -3943,14 +3951,6 @@
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
-    },
-    {
-      "id": "3980540039-3465326976",
-      "home": 3980540039,
-      "away": 3465326976,
-      "date": 1797084000000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
     },
     {
       "id": "3980540039-3350935335",
@@ -4001,20 +4001,20 @@
       "status": "pending"
     },
     {
-      "id": "2503137536-2032542557",
-      "home": 2503137536,
-      "away": 2032542557,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
       "id": "2503137536-3429601513",
       "home": 2503137536,
       "away": 3429601513,
       "date": 1797795900000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
+    },
+    {
+      "id": "2503137536-2032542557",
+      "home": 2503137536,
+      "away": 2032542557,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
     },
     {
       "id": "2503137536-4280391182",
@@ -4081,14 +4081,6 @@
       "status": "pending"
     },
     {
-      "id": "4280391182-2032542557",
-      "home": 4280391182,
-      "away": 2032542557,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
       "id": "4280391182-3551984340",
       "home": 4280391182,
       "away": 3551984340,
@@ -4100,6 +4092,14 @@
       "id": "4280391182-3429601513",
       "home": 4280391182,
       "away": 3429601513,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "4280391182-2032542557",
+      "home": 4280391182,
+      "away": 2032542557,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -4137,6 +4137,14 @@
       "status": "pending"
     },
     {
+      "id": "4280391182-3465326976",
+      "home": 4280391182,
+      "away": 3465326976,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
       "id": "4280391182-882974108",
       "home": 4280391182,
       "away": 882974108,
@@ -4156,14 +4164,6 @@
       "id": "4280391182-611870388",
       "home": 4280391182,
       "away": 611870388,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "4280391182-3465326976",
-      "home": 4280391182,
-      "away": 3465326976,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -4337,6 +4337,14 @@
       "status": "pending"
     },
     {
+      "id": "1063453040-3465326976",
+      "home": 1063453040,
+      "away": 3465326976,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
       "id": "1063453040-882974108",
       "home": 1063453040,
       "away": 882974108,
@@ -4361,20 +4369,116 @@
       "status": "scheduled"
     },
     {
-      "id": "1063453040-3465326976",
-      "home": 1063453040,
-      "away": 3465326976,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
       "id": "1063453040-3350935335",
       "home": 1063453040,
       "away": 3350935335,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
+    },
+    {
+      "id": "3465326976-2267057376",
+      "home": 3465326976,
+      "away": 2267057376,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "3465326976-2777383916",
+      "home": 3465326976,
+      "away": 2777383916,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "3465326976-2034419792",
+      "home": 3465326976,
+      "away": 2034419792,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "3465326976-3551984340",
+      "home": 3465326976,
+      "away": 3551984340,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "3465326976-2032542557",
+      "home": 3465326976,
+      "away": 2032542557,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "3465326976-663567942",
+      "home": 3465326976,
+      "away": 663567942,
+      "date": 1795808700000,
+      "round": "Rodada a confirmar",
+      "status": "scheduled"
+    },
+    {
+      "id": "3465326976-3980540039",
+      "home": 3465326976,
+      "away": 3980540039,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "3465326976-2503137536",
+      "home": 3465326976,
+      "away": 2503137536,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "3465326976-4280391182",
+      "home": 3465326976,
+      "away": 4280391182,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "3465326976-3939292337",
+      "home": 3465326976,
+      "away": 3939292337,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "3465326976-3463794015",
+      "home": 3465326976,
+      "away": 3463794015,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "3465326976-611870388",
+      "home": 3465326976,
+      "away": 611870388,
+      "date": 1796664600000,
+      "round": "Rodada a confirmar",
+      "status": "scheduled"
+    },
+    {
+      "id": "3465326976-1713673705",
+      "home": 3465326976,
+      "away": 1713673705,
+      "date": 1797775200000,
+      "round": "Rodada a confirmar",
+      "status": "scheduled"
     },
     {
       "id": "882974108-2141390539",
@@ -4441,6 +4545,14 @@
       "status": "pending"
     },
     {
+      "id": "882974108-3465326976",
+      "home": 882974108,
+      "away": 3465326976,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
       "id": "882974108-3463794015",
       "home": 882974108,
       "away": 3463794015,
@@ -4460,14 +4572,6 @@
       "id": "882974108-1713673705",
       "home": 882974108,
       "away": 1713673705,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "882974108-3465326976",
-      "home": 882974108,
-      "away": 3465326976,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -4513,14 +4617,6 @@
       "status": "pending"
     },
     {
-      "id": "3463794015-2032542557",
-      "home": 3463794015,
-      "away": 2032542557,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
       "id": "3463794015-3551984340",
       "home": 3463794015,
       "away": 3551984340,
@@ -4532,6 +4628,14 @@
       "id": "3463794015-3429601513",
       "home": 3463794015,
       "away": 3429601513,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "3463794015-2032542557",
+      "home": 3463794015,
+      "away": 2032542557,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -4553,6 +4657,14 @@
       "status": "pending"
     },
     {
+      "id": "3463794015-3465326976",
+      "home": 3463794015,
+      "away": 3465326976,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
       "id": "3463794015-882974108",
       "home": 3463794015,
       "away": 882974108,
@@ -4564,14 +4676,6 @@
       "id": "3463794015-611870388",
       "home": 3463794015,
       "away": 611870388,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3463794015-3465326976",
-      "home": 3463794015,
-      "away": 3465326976,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -4657,6 +4761,14 @@
       "status": "pending"
     },
     {
+      "id": "611870388-3465326976",
+      "home": 611870388,
+      "away": 3465326976,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
       "id": "611870388-3463794015",
       "home": 611870388,
       "away": 3463794015,
@@ -4668,14 +4780,6 @@
       "id": "611870388-1713673705",
       "home": 611870388,
       "away": 1713673705,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "611870388-3465326976",
-      "home": 611870388,
-      "away": 3465326976,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -4729,17 +4833,17 @@
       "status": "pending"
     },
     {
-      "id": "1713673705-2032542557",
+      "id": "1713673705-3551984340",
       "home": 1713673705,
-      "away": 2032542557,
+      "away": 3551984340,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
     },
     {
-      "id": "1713673705-3551984340",
+      "id": "1713673705-2032542557",
       "home": 1713673705,
-      "away": 3551984340,
+      "away": 2032542557,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -4777,6 +4881,14 @@
       "status": "pending"
     },
     {
+      "id": "1713673705-3465326976",
+      "home": 1713673705,
+      "away": 3465326976,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
       "id": "1713673705-882974108",
       "home": 1713673705,
       "away": 882974108,
@@ -4793,129 +4905,9 @@
       "status": "pending"
     },
     {
-      "id": "1713673705-3465326976",
-      "home": 1713673705,
-      "away": 3465326976,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3465326976-2267057376",
-      "home": 3465326976,
-      "away": 2267057376,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3465326976-2777383916",
-      "home": 3465326976,
-      "away": 2777383916,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3465326976-2034419792",
-      "home": 3465326976,
-      "away": 2034419792,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3465326976-2032542557",
-      "home": 3465326976,
-      "away": 2032542557,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3465326976-3551984340",
-      "home": 3465326976,
-      "away": 3551984340,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3465326976-663567942",
-      "home": 3465326976,
-      "away": 663567942,
-      "date": 1795808700000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
-    },
-    {
-      "id": "3465326976-3980540039",
-      "home": 3465326976,
-      "away": 3980540039,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3465326976-2503137536",
-      "home": 3465326976,
-      "away": 2503137536,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3465326976-4280391182",
-      "home": 3465326976,
-      "away": 4280391182,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3465326976-3939292337",
-      "home": 3465326976,
-      "away": 3939292337,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3465326976-3463794015",
-      "home": 3465326976,
-      "away": 3463794015,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3465326976-611870388",
-      "home": 3465326976,
-      "away": 611870388,
-      "date": 1796664600000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
-    },
-    {
-      "id": "3465326976-1713673705",
-      "home": 3465326976,
-      "away": 1713673705,
-      "date": 1797775200000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
-    },
-    {
       "id": "3350935335-3417040367",
       "home": 3350935335,
       "away": 3417040367,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3350935335-2032542557",
-      "home": 3350935335,
-      "away": 2032542557,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -4932,6 +4924,14 @@
       "id": "3350935335-3429601513",
       "home": 3350935335,
       "away": 3429601513,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
+      "id": "3350935335-2032542557",
+      "home": 3350935335,
+      "away": 2032542557,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
@@ -4969,6 +4969,14 @@
       "status": "pending"
     },
     {
+      "id": "3350935335-3465326976",
+      "home": 3350935335,
+      "away": 3465326976,
+      "date": null,
+      "round": "Rodada a confirmar",
+      "status": "pending"
+    },
+    {
       "id": "3350935335-882974108",
       "home": 3350935335,
       "away": 882974108,
@@ -4996,14 +5004,6 @@
       "id": "3350935335-1713673705",
       "home": 3350935335,
       "away": 1713673705,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3350935335-3465326976",
-      "home": 3350935335,
-      "away": 3465326976,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
