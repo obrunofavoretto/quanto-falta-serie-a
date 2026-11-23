@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-22T18:25:32.917793+00:00",
+  "fetchedAt": "2026-11-23T00:09:10.526148+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -30,12 +30,22 @@
     {
       "id": 3417040367,
       "name": "Inter Milan",
-      "points": 28,
-      "played": 11,
-      "goalsFor": 28,
-      "goalsAgainst": 13,
+      "points": 29,
+      "played": 12,
+      "goalsFor": 32,
+      "goalsAgainst": 17,
       "position": 3,
       "sourceId": "110"
+    },
+    {
+      "id": 2034419792,
+      "name": "AC Milan",
+      "points": 27,
+      "played": 12,
+      "goalsFor": 28,
+      "goalsAgainst": 14,
+      "position": 4,
+      "sourceId": "103"
     },
     {
       "id": 2777383916,
@@ -44,18 +54,8 @@
       "played": 12,
       "goalsFor": 20,
       "goalsAgainst": 10,
-      "position": 4,
-      "sourceId": "2572"
-    },
-    {
-      "id": 2034419792,
-      "name": "AC Milan",
-      "points": 24,
-      "played": 11,
-      "goalsFor": 23,
-      "goalsAgainst": 13,
       "position": 5,
-      "sourceId": "103"
+      "sourceId": "2572"
     },
     {
       "id": 2032542557,
@@ -71,9 +71,9 @@
       "id": 3551984340,
       "name": "Frosinone",
       "points": 20,
-      "played": 11,
-      "goalsFor": 24,
-      "goalsAgainst": 15,
+      "played": 12,
+      "goalsFor": 25,
+      "goalsAgainst": 20,
       "position": 7,
       "sourceId": "4057"
     },
@@ -120,10 +120,10 @@
     {
       "id": 2503137536,
       "name": "Atalanta",
-      "points": 14,
-      "played": 11,
-      "goalsFor": 17,
-      "goalsAgainst": 20,
+      "points": 15,
+      "played": 12,
+      "goalsFor": 21,
+      "goalsAgainst": 24,
       "position": 12,
       "sourceId": "105"
     },
