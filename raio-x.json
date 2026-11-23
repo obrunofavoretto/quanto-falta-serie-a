@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-23T08:51:50.867538+00:00",
+  "fetchedAt": "2026-11-23T21:10:36.053854+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -4748,9 +4748,9 @@
       "id": "1713673705-882974108",
       "home": 1713673705,
       "away": 882974108,
-      "date": 1795463100000,
+      "date": null,
       "round": "Rodada a confirmar",
-      "status": "scheduled"
+      "status": "pending"
     },
     {
       "id": "1713673705-3463794015",
