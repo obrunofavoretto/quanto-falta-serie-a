@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-27T18:06:04.363299+00:00",
+  "fetchedAt": "2026-11-28T01:51:39.059049+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -138,6 +138,28 @@
       }
     },
     {
+      "id": 663567942,
+      "name": "Bologna",
+      "home": {
+        "played": 6,
+        "points": 6,
+        "wins": 1,
+        "draws": 3,
+        "losses": 2,
+        "goalsFor": 7,
+        "goalsAgainst": 9
+      },
+      "away": {
+        "played": 7,
+        "points": 13,
+        "wins": 4,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 10,
+        "goalsAgainst": 6
+      }
+    },
+    {
       "id": 3429601513,
       "name": "Napoli",
       "home": {
@@ -160,28 +182,6 @@
       }
     },
     {
-      "id": 663567942,
-      "name": "Bologna",
-      "home": {
-        "played": 6,
-        "points": 6,
-        "wins": 1,
-        "draws": 3,
-        "losses": 2,
-        "goalsFor": 7,
-        "goalsAgainst": 9
-      },
-      "away": {
-        "played": 6,
-        "points": 12,
-        "wins": 4,
-        "draws": 0,
-        "losses": 2,
-        "goalsFor": 10,
-        "goalsAgainst": 6
-      }
-    },
-    {
       "id": 2032542557,
       "name": "Juventus",
       "home": {
@@ -191,7 +191,7 @@
         "draws": 1,
         "losses": 2,
         "goalsFor": 7,
-        "goalsAgainst": 14
+        "goalsAgainst": 8
       },
       "away": {
         "played": 6,
@@ -201,6 +201,28 @@
         "losses": 2,
         "goalsFor": 8,
         "goalsAgainst": 8
+      }
+    },
+    {
+      "id": 3980540039,
+      "name": "Cagliari",
+      "home": {
+        "played": 5,
+        "points": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 3,
+        "goalsAgainst": 4
+      },
+      "away": {
+        "played": 8,
+        "points": 10,
+        "wins": 3,
+        "draws": 1,
+        "losses": 4,
+        "goalsFor": 7,
+        "goalsAgainst": 13
       }
     },
     {
@@ -223,28 +245,6 @@
         "losses": 3,
         "goalsFor": 5,
         "goalsAgainst": 6
-      }
-    },
-    {
-      "id": 3980540039,
-      "name": "Cagliari",
-      "home": {
-        "played": 5,
-        "points": 7,
-        "wins": 2,
-        "draws": 1,
-        "losses": 2,
-        "goalsFor": 3,
-        "goalsAgainst": 4
-      },
-      "away": {
-        "played": 7,
-        "points": 9,
-        "wins": 3,
-        "draws": 0,
-        "losses": 4,
-        "goalsFor": 7,
-        "goalsAgainst": 13
       }
     },
     {
@@ -292,6 +292,28 @@
       }
     },
     {
+      "id": 3465326976,
+      "name": "Venezia",
+      "home": {
+        "played": 8,
+        "points": 8,
+        "wins": 2,
+        "draws": 2,
+        "losses": 4,
+        "goalsFor": 5,
+        "goalsAgainst": 11
+      },
+      "away": {
+        "played": 6,
+        "points": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 5,
+        "goalsFor": 7,
+        "goalsAgainst": 10
+      }
+    },
+    {
       "id": 1713673705,
       "name": "Monza",
       "home": {
@@ -333,28 +355,6 @@
         "losses": 4,
         "goalsFor": 7,
         "goalsAgainst": 13
-      }
-    },
-    {
-      "id": 3465326976,
-      "name": "Venezia",
-      "home": {
-        "played": 6,
-        "points": 6,
-        "wins": 2,
-        "draws": 0,
-        "losses": 4,
-        "goalsFor": 5,
-        "goalsAgainst": 11
-      },
-      "away": {
-        "played": 6,
-        "points": 3,
-        "wins": 1,
-        "draws": 0,
-        "losses": 5,
-        "goalsFor": 13,
-        "goalsAgainst": 10
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-27T18:06:04.363299+00:00",
+  "fetchedAt": "2026-11-28T01:51:39.059049+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ita.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -53,15 +53,15 @@
       "completed": 12
     },
     {
-      "id": 3429601513,
-      "name": "Napoli",
-      "sourceId": "114",
-      "completed": 12
-    },
-    {
       "id": 663567942,
       "name": "Bologna",
       "sourceId": "107",
+      "completed": 13
+    },
+    {
+      "id": 3429601513,
+      "name": "Napoli",
+      "sourceId": "114",
       "completed": 12
     },
     {
@@ -71,15 +71,15 @@
       "completed": 12
     },
     {
-      "id": 3939292337,
-      "name": "Genoa",
-      "sourceId": "3263",
-      "completed": 12
-    },
-    {
       "id": 3980540039,
       "name": "Cagliari",
       "sourceId": "2925",
+      "completed": 13
+    },
+    {
+      "id": 3939292337,
+      "name": "Genoa",
+      "sourceId": "3263",
       "completed": 12
     },
     {
@@ -95,6 +95,12 @@
       "completed": 12
     },
     {
+      "id": 3465326976,
+      "name": "Venezia",
+      "sourceId": "17530",
+      "completed": 14
+    },
+    {
       "id": 1713673705,
       "name": "Monza",
       "sourceId": "4007",
@@ -104,12 +110,6 @@
       "id": 1063453040,
       "name": "Lecce",
       "sourceId": "113",
-      "completed": 12
-    },
-    {
-      "id": 3465326976,
-      "name": "Venezia",
-      "sourceId": "17530",
       "completed": 12
     },
     {
@@ -3438,8 +3438,19 @@
       ],
       "firstScorer": 1713673705,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401875004",
+      "date": "2026-11-27T19:45Z",
+      "home": 3465326976,
+      "away": 663567942,
+      "hg": 0,
+      "ag": 0,
+      "goals": [],
+      "firstScorer": null,
+      "firstGoalStatus": "goalless"
     }
   ],
-  "completedMatches": 120,
+  "completedMatches": 122,
   "excluded": []
 }
