@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-28T10:09:21.903435+00:00",
+  "fetchedAt": "2026-11-28T18:48:06.097685+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -60,9 +60,9 @@
     {
       "id": 3551984340,
       "name": "Frosinone",
-      "points": 20,
-      "played": 12,
-      "goalsFor": 25,
+      "points": 23,
+      "played": 13,
+      "goalsFor": 28,
       "goalsAgainst": 20,
       "position": 6,
       "sourceId": "4057"
@@ -178,24 +178,24 @@
       "sourceId": "109"
     },
     {
-      "id": 3463794015,
-      "name": "Parma",
-      "points": 8,
-      "played": 12,
-      "goalsFor": 10,
-      "goalsAgainst": 22,
-      "position": 18,
-      "sourceId": "115"
-    },
-    {
       "id": 611870388,
       "name": "Sassuolo",
       "points": 8,
       "played": 12,
       "goalsFor": 16,
       "goalsAgainst": 31,
-      "position": 19,
+      "position": 18,
       "sourceId": "3997"
+    },
+    {
+      "id": 3463794015,
+      "name": "Parma",
+      "points": 8,
+      "played": 13,
+      "goalsFor": 10,
+      "goalsAgainst": 25,
+      "position": 19,
+      "sourceId": "115"
     },
     {
       "id": 3350935335,

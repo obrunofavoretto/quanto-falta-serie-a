@@ -1,7 +1,7 @@
 {
   "league": "ita-serie-a",
   "season": 2026,
-  "fetchedAt": "2026-11-28T10:09:21.903435+00:00",
+  "fetchedAt": "2026-11-28T18:48:06.097685+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ita.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -50,7 +50,7 @@
       "id": 3551984340,
       "name": "Frosinone",
       "sourceId": "4057",
-      "completed": 12
+      "completed": 13
     },
     {
       "id": 663567942,
@@ -119,16 +119,16 @@
       "completed": 12
     },
     {
-      "id": 3463794015,
-      "name": "Parma",
-      "sourceId": "115",
-      "completed": 12
-    },
-    {
       "id": 611870388,
       "name": "Sassuolo",
       "sourceId": "3997",
       "completed": 12
+    },
+    {
+      "id": 3463794015,
+      "name": "Parma",
+      "sourceId": "115",
+      "completed": 13
     },
     {
       "id": 3350935335,
@@ -3449,8 +3449,35 @@
       "goals": [],
       "firstScorer": null,
       "firstGoalStatus": "goalless"
+    },
+    {
+      "id": "401875081",
+      "date": "2026-11-28T14:00Z",
+      "home": 3551984340,
+      "away": 3463794015,
+      "hg": 3,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3551984340,
+          "minute": "55",
+          "bin": 4
+        },
+        {
+          "team": 3551984340,
+          "minute": "61",
+          "bin": 5
+        },
+        {
+          "team": 3551984340,
+          "minute": "79",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3551984340,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 122,
+  "completedMatches": 123,
   "excluded": []
 }
